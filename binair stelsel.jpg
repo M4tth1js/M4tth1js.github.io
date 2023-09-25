@@ -1,0 +1,2017 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	 <link rel="profile" href="https://gmpg.org/xfn/11"> 
+	 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Binair stelsel en rekenen, makkelijker dan je denkt !</title>
+	<meta name="description" content="Het binaire stelsel. Computers zijn er op gebaseerd maar is dit nu echt zo moeilijk of lijkt dit maar zo ?" />
+	<link rel="canonical" href="https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/" />
+	<meta property="og:locale" content="nl_NL" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Binair stelsel en rekenen, makkelijker dan je denkt !" />
+	<meta property="og:description" content="Het binaire stelsel. Computers zijn er op gebaseerd maar is dit nu echt zo moeilijk of lijkt dit maar zo ?" />
+	<meta property="og:url" content="https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/" />
+	<meta property="og:site_name" content="ICT Tips and Tricks!" />
+	<meta property="article:publisher" content="https://www.facebook.com/ICTTipsAndTricks" />
+	<meta property="article:author" content="https://www.facebook.com/ICTTipsAndTricks" />
+	<meta property="article:published_time" content="2016-11-05T18:30:56+00:00" />
+	<meta property="article:modified_time" content="2023-06-24T21:21:23+00:00" />
+	<meta property="og:image" content="https://www.icttipsandtricks.nl/wp-content/uploads/2016/11/binairstelsel.jpg" />
+	<meta property="og:image:width" content="720" />
+	<meta property="og:image:height" content="405" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Frank Mazzone" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@https://twitter.com/ict_tips" />
+	<meta name="twitter:site" content="@ict_tips" />
+	<meta name="twitter:label1" content="Geschreven door" />
+	<meta name="twitter:data1" content="Frank Mazzone" />
+	<meta name="twitter:label2" content="Geschatte leestijd" />
+	<meta name="twitter:data2" content="8 minuten" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#article","isPartOf":{"@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/"},"author":{"name":"Frank Mazzone","@id":"https://www.icttipsandtricks.nl/#/schema/person/f5f5ecbed8185907c6e3127dd85103b9"},"headline":"Binair rekenen","datePublished":"2016-11-05T18:30:56+00:00","dateModified":"2023-06-24T21:21:23+00:00","mainEntityOfPage":{"@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/"},"wordCount":995,"publisher":{"@id":"https://www.icttipsandtricks.nl/#/schema/person/f5f5ecbed8185907c6e3127dd85103b9"},"image":{"@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#primaryimage"},"thumbnailUrl":"https://www.icttipsandtricks.nl/wp-content/uploads/2016/11/binairstelsel.jpg","articleSection":["Handleidingen","Hoe werkt dat nou ?"],"inLanguage":"nl-NL"},{"@type":"WebPage","@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/","url":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/","name":"Binair stelsel en rekenen, makkelijker dan je denkt !","isPartOf":{"@id":"https://www.icttipsandtricks.nl/#website"},"primaryImageOfPage":{"@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#primaryimage"},"image":{"@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#primaryimage"},"thumbnailUrl":"https://www.icttipsandtricks.nl/wp-content/uploads/2016/11/binairstelsel.jpg","datePublished":"2016-11-05T18:30:56+00:00","dateModified":"2023-06-24T21:21:23+00:00","description":"Het binaire stelsel. Computers zijn er op gebaseerd maar is dit nu echt zo moeilijk of lijkt dit maar zo ?","breadcrumb":{"@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#breadcrumb"},"inLanguage":"nl-NL","potentialAction":[{"@type":"ReadAction","target":["https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/"]}]},{"@type":"ImageObject","inLanguage":"nl-NL","@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#primaryimage","url":"https://www.icttipsandtricks.nl/wp-content/uploads/2016/11/binairstelsel.jpg","contentUrl":"https://www.icttipsandtricks.nl/wp-content/uploads/2016/11/binairstelsel.jpg","width":720,"height":405,"caption":"binairstelsel"},{"@type":"BreadcrumbList","@id":"https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.icttipsandtricks.nl/"},{"@type":"ListItem","position":2,"name":"Binair rekenen"}]},{"@type":"WebSite","@id":"https://www.icttipsandtricks.nl/#website","url":"https://www.icttipsandtricks.nl/","name":"ICT Tips and Tricks!","description":"Diverse korte en krachtige oplossingen","publisher":{"@id":"https://www.icttipsandtricks.nl/#/schema/person/f5f5ecbed8185907c6e3127dd85103b9"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.icttipsandtricks.nl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"nl-NL"},{"@type":["Person","Organization"],"@id":"https://www.icttipsandtricks.nl/#/schema/person/f5f5ecbed8185907c6e3127dd85103b9","name":"Frank Mazzone","image":{"@type":"ImageObject","inLanguage":"nl-NL","@id":"https://www.icttipsandtricks.nl/#/schema/person/image/","url":"https://www.icttipsandtricks.nl/wp-content/uploads/2022/07/frankserveromgevingbouwen-rotated.jpeg","contentUrl":"https://www.icttipsandtricks.nl/wp-content/uploads/2022/07/frankserveromgevingbouwen-rotated.jpeg","width":1080,"height":1920,"caption":"Frank Mazzone"},"logo":{"@id":"https://www.icttipsandtricks.nl/#/schema/person/image/"},"sameAs":["https://www.facebook.com/ICTTipsAndTricks","https://www.linkedin.com/in/frank-mazzone-a809b863/","https://www.pinterest.com/icttipsandtricks/","https://twitter.com/https://twitter.com/ict_tips"],"url":"https://www.icttipsandtricks.nl/author/frank/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='astra-theme-css-css' href='https://www.icttipsandtricks.nl/wp-content/themes/astra/assets/css/minified/main.min.css' media='all' />
+<style id='astra-theme-css-inline-css'>
+:root{--ast-container-default-xlg-padding:3em;--ast-container-default-lg-padding:3em;--ast-container-default-slg-padding:2em;--ast-container-default-md-padding:3em;--ast-container-default-sm-padding:3em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.8em;--ast-code-block-background:#ECEFF3;--ast-comment-inputs-background:#F9FAFB;}html{font-size:100%;}a{color:var(--ast-global-color-6);}a:hover,a:focus{color:var(--ast-global-color-5);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:400;font-size:16px;font-size:1rem;line-height:1.6em;}blockquote{color:var(--ast-global-color-4);}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-weight:600;}.site-title{font-size:26px;font-size:1.625rem;display:block;}header .custom-logo-link img{max-width:68px;}.astra-logo-svg{width:68px;}.site-header .site-description{font-size:15px;font-size:0.9375rem;display:none;}.entry-title{font-size:26px;font-size:1.625rem;}h1,.entry-content h1{font-size:40px;font-size:2.5rem;font-weight:600;line-height:1.4em;}h2,.entry-content h2{font-size:32px;font-size:2rem;font-weight:600;line-height:1.25em;}h3,.entry-content h3{font-size:26px;font-size:1.625rem;font-weight:600;line-height:1.2em;}h4,.entry-content h4{font-size:24px;font-size:1.5rem;line-height:1.2em;font-weight:600;}h5,.entry-content h5{font-size:20px;font-size:1.25rem;line-height:1.2em;font-weight:600;}h6,.entry-content h6{font-size:16px;font-size:1rem;line-height:1.25em;font-weight:600;}::selection{background-color:var(--ast-global-color-0);color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-4);}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#000000;border-color:var(--ast-global-color-6);background-color:var(--ast-global-color-6);}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:var(--ast-global-color-6);}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-6);background-color:var(--ast-global-color-6);box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:var(--ast-global-color-6);border-color:var(--ast-global-color-6);}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:var(--ast-global-color-6);}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-6);}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:var(--ast-global-color-5);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-6);}.secondary .calendar_wrap #today,.ast-progress-val span{background:var(--ast-global-color-6);}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:var(--ast-global-color-6);border-color:var(--ast-global-color-6);}.calendar_wrap #today > a{color:#000000;}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-6);}.ast-archive-title{color:var(--ast-global-color-8);}.widget-title,.widget .wp-block-heading{font-size:22px;font-size:1.375rem;color:var(--ast-global-color-8);}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:16px;font-size:1rem;}.ast-single-post .entry-content a,.ast-comment-content a:not(.ast-comment-edit-reply-wrap a){text-decoration:underline;}.ast-single-post .wp-block-button .wp-block-button__link,.ast-single-post .elementor-button-wrapper .elementor-button,.ast-single-post .entry-content .uagb-tab a,.ast-single-post .entry-content .uagb-ifb-cta a,.ast-single-post .entry-content .wp-block-uagb-buttons a,.ast-single-post .entry-content .uabb-module-content a,.ast-single-post .entry-content .uagb-post-grid a,.ast-single-post .entry-content .uagb-timeline a,.ast-single-post .entry-content .uagb-toc__wrap a,.ast-single-post .entry-content .uagb-taxomony-box a,.ast-single-post .entry-content .woocommerce a,.entry-content .wp-block-latest-posts > li > a,.ast-single-post .entry-content .wp-block-file__button{text-decoration:none;}a:focus-visible,.ast-menu-toggle:focus-visible,.site .skip-link:focus-visible,.wp-block-loginout input:focus-visible,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,.ast-header-navigation-arrow:focus-visible,.woocommerce .wc-proceed-to-checkout > .checkout-button:focus-visible,.woocommerce .woocommerce-MyAccount-navigation ul li a:focus-visible,.ast-orders-table__row .ast-orders-table__cell:focus-visible,.woocommerce .woocommerce-order-details .order-again > .button:focus-visible,.woocommerce .woocommerce-message a.button.wc-forward:focus-visible,.woocommerce #minus_qty:focus-visible,.woocommerce #plus_qty:focus-visible,a#ast-apply-coupon:focus-visible,.woocommerce .woocommerce-info a:focus-visible,.woocommerce .astra-shop-summary-wrap a:focus-visible,.woocommerce a.wc-forward:focus-visible,#ast-apply-coupon:focus-visible,.woocommerce-js .woocommerce-mini-cart-item a.remove:focus-visible{outline-style:dotted;outline-color:inherit;outline-width:thin;border-color:transparent;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,input[type="number"]:focus,textarea:focus,.wp-block-search__input:focus,[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,.woocommerce-ordering select.orderby:focus,#ast-scroll-top:focus,#coupon_code:focus,.woocommerce-page #comment:focus,.woocommerce #reviews #respond input#submit:focus,.woocommerce a.add_to_cart_button:focus,.woocommerce .button.single_add_to_cart_button:focus,.woocommerce .woocommerce-cart-form button:focus,.woocommerce .woocommerce-cart-form__cart-item .quantity .qty:focus,.woocommerce .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper .woocommerce-input-wrapper > .input-text:focus,.woocommerce #order_comments:focus,.woocommerce #place_order:focus,.woocommerce .woocommerce-address-fields .woocommerce-address-fields__field-wrapper .woocommerce-input-wrapper > .input-text:focus,.woocommerce .woocommerce-MyAccount-content form button:focus,.woocommerce .woocommerce-MyAccount-content .woocommerce-EditAccountForm .woocommerce-form-row .woocommerce-Input.input-text:focus,.woocommerce .ast-woocommerce-container .woocommerce-pagination ul.page-numbers li a:focus,body #content .woocommerce form .form-row .select2-container--default .select2-selection--single:focus,#ast-coupon-code:focus,.woocommerce.woocommerce-js .quantity input[type=number]:focus,.woocommerce-js .woocommerce-mini-cart-item .quantity input[type=number]:focus,.woocommerce p#ast-coupon-trigger:focus{border-style:dotted;border-color:inherit;border-width:thin;outline-color:transparent;}#secondary {margin: 4em 0 2.5em;word-break: break-word;line-height: 2;}#secondary li {margin-bottom: 0.75em;}#secondary li:last-child {margin-bottom: 0;}@media (max-width: 768px) {.js_active .ast-plain-container.ast-single-post #secondary {margin-top: 1.5em;}}.ast-separate-container.ast-two-container #secondary .widget {background-color: #fff;padding: 2em;margin-bottom: 2em;}@media (min-width: 993px) {.ast-left-sidebar #secondary {padding-right: 60px;}.ast-right-sidebar #secondary {padding-left: 60px;}}@media (max-width: 993px) {.ast-right-sidebar #secondary {padding-left: 30px;}.ast-left-sidebar #secondary {padding-right: 30px;}}@media (min-width: 993px) {.ast-page-builder-template.ast-left-sidebar #secondary {padding-left: 60px;}.ast-page-builder-template.ast-right-sidebar #secondary {padding-right: 60px;}}@media (max-width: 993px) {.ast-page-builder-template.ast-right-sidebar #secondary {padding-right: 30px;}.ast-page-builder-template.ast-left-sidebar #secondary {padding-left: 30px;}}.ast-header-break-point #ast-desktop-header{display:none;}@media (min-width:921px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}@media (min-width:1200px){.ast-plain-container.ast-no-sidebar #primary{margin-top:60px;margin-bottom:60px;}}.wp-block-button.is-style-outline .wp-block-button__link{border-color:var(--ast-global-color-0);}div.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:var(--ast-global-color-0);}.wp-block-button.is-style-outline .wp-block-button__link:hover,div.wp-block-button.is-style-outline .wp-block-button__link:focus,div.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover{color:#000000;background-color:var(--ast-global-color-5);border-color:var(--ast-global-color-5);}.post-page-numbers.current .page-link,.ast-pagination .page-numbers.current{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);border-radius:2px;}h1.widget-title{font-weight:600;}h2.widget-title{font-weight:600;}h3.widget-title{font-weight:600;}#page{display:flex;flex-direction:column;min-height:100vh;}.ast-404-layout-1 h1.page-title{color:var(--ast-global-color-2);}.single .post-navigation a{line-height:1em;height:inherit;}.error-404 .page-sub-title{font-size:1.5rem;font-weight:inherit;}.search .site-content .content-area .search-form{margin-bottom:0;}#page .site-content{flex-grow:1;}.widget{margin-bottom:1.25em;}#secondary li{line-height:1.5em;}#secondary .wp-block-group h2{margin-bottom:0.7em;}#secondary h2{font-size:1.7rem;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .comment-respond{padding:3em;}.ast-separate-container .ast-article-single .ast-article-single{padding:0;}.ast-article-single .wp-block-post-template-is-layout-grid{padding-left:0;}.ast-separate-container .ast-comment-list li.depth-1,.hentry{margin-bottom:2em;}.ast-separate-container .ast-archive-description,.ast-separate-container .ast-author-box{border-bottom:1px solid var(--ast-border-color);}.ast-separate-container .comments-title{padding:2em 2em 0 2em;}.ast-page-builder-template .comment-form-textarea,.ast-comment-formwrap .ast-grid-common-col{padding:0;}.ast-comment-formwrap{padding:0 20px;display:inline-flex;column-gap:20px;}.archive.ast-page-builder-template .entry-header{margin-top:2em;}.ast-page-builder-template .ast-comment-formwrap{width:100%;}.entry-title{margin-bottom:0.5em;}.ast-archive-description p{font-size:inherit;font-weight:inherit;line-height:inherit;}@media (min-width:921px){.ast-left-sidebar.ast-page-builder-template #secondary,.archive.ast-right-sidebar.ast-page-builder-template .site-main{padding-left:20px;padding-right:20px;}}@media (max-width:544px){.ast-comment-formwrap.ast-row{column-gap:10px;display:inline-block;}#ast-commentform .ast-grid-common-col{position:relative;width:100%;}}@media (min-width:1201px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-author-box,.ast-separate-container .ast-404-layout-1,.ast-separate-container .no-results{padding:3em;}}@media (max-width:921px){.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary,.ast-page-builder-template #secondary{margin-top:1.5em;}}@media (max-width:921px){.ast-right-sidebar #primary{padding-right:0;}.ast-page-builder-template.ast-left-sidebar #secondary,.ast-page-builder-template.ast-right-sidebar #secondary{padding-right:20px;padding-left:20px;}.ast-right-sidebar #secondary,.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid var(--ast-border-color);}.ast-left-sidebar #primary{border-left:1px solid var(--ast-border-color);}.ast-right-sidebar #secondary{border-left:1px solid var(--ast-border-color);margin-left:-1px;}.ast-left-sidebar #secondary{border-right:1px solid var(--ast-border-color);margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}}.wp-block-button .wp-block-button__link{color:#ffffff;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#000000;background-color:var(--ast-global-color-5);border-color:var(--ast-global-color-5);}.elementor-widget-heading h1.elementor-heading-title{line-height:1.4em;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.25em;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.25em;}.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);color:#ffffff;font-family:inherit;font-weight:500;line-height:1em;font-size:16px;font-size:1rem;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;}@media (max-width:921px){.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit,.woocommerce-js a.button,.woocommerce button.button,.woocommerce .woocommerce-message a.button,.woocommerce #respond input#submit.alt,.woocommerce input.button.alt,.woocommerce input.button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce button.button.alt.disabled,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.wc-block-grid__product-onsale,[CLASS*="wc-block"] button,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce button.button.alt.disabled.wc-variation-selection-needed{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;font-family:inherit;font-weight:500;font-size:16px;font-size:1rem;line-height:1em;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,body .wp-block-file .wp-block-file__button:hover,body .wp-block-file .wp-block-file__button:focus,.woocommerce-js a.button:hover,.woocommerce button.button:hover,.woocommerce .woocommerce-message a.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce input.button.alt:hover,.woocommerce input.button:hover,.woocommerce button.button.alt.disabled:hover,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover,[CLASS*="wc-block"] button:hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping):hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout:hover,.woocommerce button.button.alt.disabled.wc-variation-selection-needed:hover{color:#000000;background-color:var(--ast-global-color-5);border-color:var(--ast-global-color-5);}form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button.has-icon{padding-top:calc(15px - 3px);padding-right:calc(30px - 3px);padding-bottom:calc(15px - 3px);padding-left:calc(30px - 3px);}@media (max-width:921px){.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit,.woocommerce-js a.button,.woocommerce button.button,.woocommerce .woocommerce-message a.button,.woocommerce #respond input#submit.alt,.woocommerce input.button.alt,.woocommerce input.button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce button.button.alt.disabled,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.wc-block-grid__product-onsale,[CLASS*="wc-block"] button,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce button.button.alt.disabled.wc-variation-selection-needed{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit,.woocommerce-js a.button,.woocommerce button.button,.woocommerce .woocommerce-message a.button,.woocommerce #respond input#submit.alt,.woocommerce input.button.alt,.woocommerce input.button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce button.button.alt.disabled,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.wc-block-grid__product-onsale,[CLASS*="wc-block"] button,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce button.button.alt.disabled.wc-variation-selection-needed{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}}.ast-separate-container{background-color:var(--ast-global-color-2);;background-image:none;;}@media (max-width:921px){.site-title{display:block;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}body,.ast-separate-container{background-color:var(--ast-global-color-2);;background-image:none;;}}@media (max-width:544px){.site-title{display:block;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}body,.ast-separate-container{background-color:var(--ast-global-color-2);;background-image:none;;}}@media (max-width:921px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@media (min-width:922px){.site-content .ast-container{display:flex;}}@media (max-width:921px){.site-content .ast-container{flex-direction:column;}}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}blockquote,cite {font-style: initial;}.wp-block-file {display: flex;align-items: center;flex-wrap: wrap;justify-content: space-between;}.wp-block-pullquote {border: none;}.wp-block-pullquote blockquote::before {content: "\201D";font-family: "Helvetica",sans-serif;display: flex;transform: rotate( 180deg );font-size: 6rem;font-style: normal;line-height: 1;font-weight: bold;align-items: center;justify-content: center;}.has-text-align-right > blockquote::before {justify-content: flex-start;}.has-text-align-left > blockquote::before {justify-content: flex-end;}figure.wp-block-pullquote.is-style-solid-color blockquote {max-width: 100%;text-align: inherit;}html body {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 3em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 3em;--wp--custom--ast-container-width: 1200px;--wp--custom--ast-content-width-size: 1200px;--wp--custom--ast-wide-width-size: calc(1200px + var(--wp--custom--ast-default-block-left-padding) + var(--wp--custom--ast-default-block-right-padding));}.ast-narrow-container {--wp--custom--ast-content-width-size: 750px;--wp--custom--ast-wide-width-size: 750px;}@media(max-width: 921px) {html body {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 2em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 2em;}}@media(max-width: 544px) {html body {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 1.5em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 1.5em;}}.entry-content > .wp-block-group,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns {padding-top: var(--wp--custom--ast-default-block-top-padding);padding-right: var(--wp--custom--ast-default-block-right-padding);padding-bottom: var(--wp--custom--ast-default-block-bottom-padding);padding-left: var(--wp--custom--ast-default-block-left-padding);}.ast-plain-container.ast-no-sidebar .entry-content > .alignfull,.ast-page-builder-template .ast-no-sidebar .entry-content > .alignfull {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignwide {margin-left: auto;margin-right: auto;width: 100%;}[ast-blocks-layout] .wp-block-separator:not(.is-style-dots) {height: 0;}[ast-blocks-layout] .wp-block-separator {margin: 20px auto;}[ast-blocks-layout] .wp-block-separator:not(.is-style-wide):not(.is-style-dots) {max-width: 100px;}[ast-blocks-layout] .wp-block-separator.has-background {padding: 0;}.entry-content[ast-blocks-layout] > * {max-width: var(--wp--custom--ast-content-width-size);margin-left: auto;margin-right: auto;}.entry-content[ast-blocks-layout] > .alignwide {max-width: var(--wp--custom--ast-wide-width-size);}.entry-content[ast-blocks-layout] .alignfull {max-width: none;}.entry-content .wp-block-columns {margin-bottom: 0;}blockquote {margin: 1.5em;border: none;}.wp-block-quote:not(.has-text-align-right):not(.has-text-align-center) {border-left: 5px solid rgba(0,0,0,0.05);}.has-text-align-right > blockquote,blockquote.has-text-align-right {border-right: 5px solid rgba(0,0,0,0.05);}.has-text-align-left > blockquote,blockquote.has-text-align-left {border-left: 5px solid rgba(0,0,0,0.05);}.wp-block-site-tagline,.wp-block-latest-posts .read-more {margin-top: 15px;}.wp-block-loginout p label {display: block;}.wp-block-loginout p:not(.login-remember):not(.login-submit) input {width: 100%;}.wp-block-loginout input:focus {border-color: transparent;}.wp-block-loginout input:focus {outline: thin dotted;}.entry-content .wp-block-media-text .wp-block-media-text__content {padding: 0 0 0 8%;}.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {padding: 0 8% 0 0;}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content {padding: 8%;}.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover__inner-container,.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover-image-text,.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover-text,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover__inner-container,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover-image-text,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover-text {color: var(--ast-global-color-5);}.wp-block-loginout .login-remember input {width: 1.1rem;height: 1.1rem;margin: 0 5px 4px 0;vertical-align: middle;}.wp-block-latest-posts > li > *:first-child,.wp-block-latest-posts:not(.is-grid) > li:first-child {margin-top: 0;}.wp-block-search__inside-wrapper .wp-block-search__input {padding: 0 10px;color: var(--ast-global-color-3);background: var(--ast-global-color-5);border-color: var(--ast-border-color);}.wp-block-latest-posts .read-more {margin-bottom: 1.5em;}.wp-block-search__no-button .wp-block-search__inside-wrapper .wp-block-search__input {padding-top: 5px;padding-bottom: 5px;}.wp-block-latest-posts .wp-block-latest-posts__post-date,.wp-block-latest-posts .wp-block-latest-posts__post-author {font-size: 1rem;}.wp-block-latest-posts > li > *,.wp-block-latest-posts:not(.is-grid) > li {margin-top: 12px;margin-bottom: 12px;}.ast-page-builder-template .entry-content[ast-blocks-layout] > *,.ast-page-builder-template .entry-content[ast-blocks-layout] > .alignfull > * {max-width: none;}.ast-page-builder-template .entry-content[ast-blocks-layout] > .alignwide > * {max-width: var(--wp--custom--ast-wide-width-size);}.ast-page-builder-template .entry-content[ast-blocks-layout] > .inherit-container-width > *,.ast-page-builder-template .entry-content[ast-blocks-layout] > * > *,.entry-content[ast-blocks-layout] > .wp-block-cover .wp-block-cover__inner-container {max-width: var(--wp--custom--ast-content-width-size);margin-left: auto;margin-right: auto;}.entry-content[ast-blocks-layout] .wp-block-cover:not(.alignleft):not(.alignright) {width: auto;}@media(max-width: 1200px) {.ast-separate-container .entry-content > .alignfull,.ast-separate-container .entry-content[ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content[ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content .alignfull {margin-left: calc(-1 * min(var(--ast-container-default-xlg-padding),20px)) ;margin-right: calc(-1 * min(var(--ast-container-default-xlg-padding),20px));}}@media(min-width: 1201px) {.ast-separate-container .entry-content > .alignfull {margin-left: calc(-1 * var(--ast-container-default-xlg-padding) );margin-right: calc(-1 * var(--ast-container-default-xlg-padding) );}.ast-separate-container .entry-content[ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content[ast-blocks-layout] > .alignwide {margin-left: calc(-1 * var(--wp--custom--ast-default-block-left-padding) );margin-right: calc(-1 * var(--wp--custom--ast-default-block-right-padding) );}}@media(min-width: 921px) {.ast-separate-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width) > :where(:not(.alignleft):not(.alignright)),.ast-plain-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width) > :where(:not(.alignleft):not(.alignright)) {max-width: calc( var(--wp--custom--ast-content-width-size) + 80px );}.ast-plain-container.ast-right-sidebar .entry-content[ast-blocks-layout] .alignfull,.ast-plain-container.ast-left-sidebar .entry-content[ast-blocks-layout] .alignfull {margin-left: -60px;margin-right: -60px;}}@media(min-width: 544px) {.entry-content > .alignleft {margin-right: 20px;}.entry-content > .alignright {margin-left: 20px;}}@media (max-width:544px){.wp-block-columns .wp-block-column:not(:last-child){margin-bottom:20px;}.wp-block-latest-posts{margin:0;}}@media( max-width: 600px ) {.entry-content .wp-block-media-text .wp-block-media-text__content,.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {padding: 8% 0 0;}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content {padding: 8%;}}.ast-page-builder-template .entry-header {padding-left: 0;}.ast-narrow-container .site-content .wp-block-uagb-image--align-full .wp-block-uagb-image__figure {max-width: 100%;margin-left: auto;margin-right: auto;}.entry-content ul,.entry-content ol {padding: revert;margin: revert;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#046bd2;--ast-global-color-1:#045cb4;--ast-global-color-2:#1e293b;--ast-global-color-3:#334155;--ast-global-color-4:#f9fafb;--ast-global-color-5:#FFFFFF;--ast-global-color-6:#e2e8f0;--ast-global-color-7:#cbd5e1;--ast-global-color-8:#94a3b8;}:root {--ast-border-color : var(--ast-global-color-8);}.ast-single-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-single-entry-banner[data-banner-layout="layout-1"] {max-width: 1200px;background: inherit;padding: 20px 0;}.ast-single-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-single-entry-banner + .site-content .entry-header {margin-bottom: 0;}header.entry-header .entry-title{font-weight:600;font-size:32px;font-size:2rem;}header.entry-header > *:not(:last-child){margin-bottom:10px;}.ast-archive-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-archive-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-archive-entry-banner[data-banner-layout="layout-1"] {background: inherit;padding: 20px 0;text-align: left;}body.archive .ast-archive-description{max-width:1200px;width:100%;text-align:left;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}body.archive .ast-archive-description .ast-archive-title,body.archive .ast-archive-description .ast-archive-title *{font-weight:600;font-size:32px;font-size:2rem;}body.archive .ast-archive-description > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){body.archive .ast-archive-description{text-align:left;}}@media (max-width:544px){body.archive .ast-archive-description{text-align:left;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;text-decoration:none;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-8);}.entry-title a{color:var(--ast-global-color-8);}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit;}.ast-builder-menu-1 .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-1 .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-1 .menu-item:hover > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle,.ast-builder-menu-1 .current-menu-ancestor > .menu-link{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:2px;border-bottom-width:0px;border-right-width:0px;border-left-width:0px;border-color:var(--ast-global-color-0);border-style:solid;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 5px );}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children > .ast-menu-toggle{right:-15px;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:var(--ast-global-color-5);;min-height:80px;border-style:solid;border-width:0px;border-top-width:1px;border-top-color:var(--ast-global-color-6);}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:flex-start;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-full .ast-builder-grid-row{grid-template-columns:1fr;}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr;}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-footer-copyright{text-align:center;}.ast-footer-copyright {color:var(--ast-global-color-3);}@media (max-width:921px){.ast-footer-copyright{text-align:center;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright {font-size:16px;font-size:1rem;}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.footer-widget-area.widget-area.site-footer-focus-item{width:auto;}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}@media (min-width:922px){#primary{width:80%;}#secondary{width:20%;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg{top:.2em;margin-top:0px;margin-left:0px;width:.65em;transform:translate(0, -2px) rotateZ(270deg);}.ast-mobile-popup-content .ast-submenu-expanded > .ast-menu-toggle{transform:rotateX(180deg);overflow-y:auto;}.ast-separate-container .blog-layout-1, .ast-separate-container .blog-layout-2, .ast-separate-container .blog-layout-3{background-color:transparent;background-image:none;}.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-2);;background-image:none;;}@media (max-width:921px){.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-2);;background-image:none;;}}@media (max-width:544px){.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-2);;background-image:none;;}}.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-2);;background-image:none;;}@media (max-width:921px){.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-2);;background-image:none;;}}@media (max-width:544px){.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-2);;background-image:none;;}}.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-2);;background-image:none;;}@media (max-width:921px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-2);;background-image:none;;}}@media (max-width:544px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-2);;background-image:none;;}}.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-2);;background-image:none;;}@media (max-width:921px){.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-2);;background-image:none;;}}@media (max-width:544px){.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-2);;background-image:none;;}}
+		#ast-scroll-top {
+			display: none;
+			position: fixed;
+			text-align: center;
+			cursor: pointer;
+			z-index: 99;
+			width: 2.1em;
+			height: 2.1em;
+			line-height: 2.1;
+			color: #ffffff;
+			border-radius: 2px;
+			content: "";
+			outline: inherit;
+		}
+		@media (min-width: 769px) {
+			#ast-scroll-top {
+				content: "769";
+			}
+		}
+		#ast-scroll-top .ast-icon.icon-arrow svg {
+			margin-left: 0px;
+			vertical-align: middle;
+			transform: translate(0, -20%) rotate(180deg);
+			width: 1.6em;
+		}
+		.ast-scroll-to-top-right {
+			right: 30px;
+			bottom: 30px;
+		}
+		.ast-scroll-to-top-left {
+			left: 30px;
+			bottom: 30px;
+		}
+	#ast-scroll-top{background-color:var(--ast-global-color-6);font-size:15px;font-size:0.9375rem;}@media (max-width:921px){#ast-scroll-top .ast-icon.icon-arrow svg{width:1em;}}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);right: auto;}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:80px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:80px;}.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-primary-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-below-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-above-header-bar{padding-left:20px;padding-right:20px;}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}}.ast-primary-header-bar{background-color:#ffffff;;}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:var(--ast-global-color-0);border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:var(--ast-global-color-0);}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-0);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .menu-link, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-hfb-header .ast-builder-menu-mobile .main-header-menu, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link{border-style:none;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);background:var(--ast-global-color-4);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .menu-link, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-1);background:var(--ast-global-color-4);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-mobile .main-navigation .main-header-menu, .ast-builder-menu-mobile .main-navigation .main-header-menu .sub-menu{background-color:var(--ast-global-color-5);;}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}}.ast-builder-menu-mobile .main-navigation{display:block;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}
+</style>
+<link rel='stylesheet' id='astra-site-origin-css' href='https://www.icttipsandtricks.nl/wp-content/themes/astra/assets/css/minified/compatibility/site-origin.min.css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://www.icttipsandtricks.nl/wp-content/plugins/add-to-any/addtoany.min.css' media='all' />
+<!--[if IE]>
+<script src='https://www.icttipsandtricks.nl/wp-content/themes/astra/assets/js/minified/flexibility.min.js' id='astra-flexibility-js'></script>
+<script id="astra-flexibility-js-after">
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Delen",
+	Save: "Opslaan",
+	Subscribe: "Inschrijven",
+	Email: "E-mail",
+	Bookmark: "Bookmark",
+	ShowAll: "Alles weergeven",
+	ShowLess: "Niet alles weergeven",
+	FindServices: "Vind dienst(en)",
+	FindAnyServiceToAddTo: "Vind direct een dienst om aan toe te voegen",
+	PoweredBy: "Mede mogelijk gemaakt door",
+	ShareViaEmail: "Delen per e-mail",
+	SubscribeViaEmail: "Abonneren via e-mail",
+	BookmarkInYourBrowser: "Bookmark in je browser",
+	BookmarkInstructions: "Druk op Ctrl+D of \u2318+D om deze pagina te bookmarken",
+	AddToYourFavorites: "Voeg aan je favorieten toe",
+	SendFromWebOrProgram: "Stuur vanuit elk e-mailadres of e-mail programma",
+	EmailProgram: "E-mail programma",
+	More: "Meer&#8230;",
+	ThanksForSharing: "Bedankt voor het delen!",
+	ThanksForFollowing: "Dank voor het volgen!"
+};
+</script>
+<script async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script src='https://www.icttipsandtricks.nl/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script src='https://www.icttipsandtricks.nl/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script async src='https://www.icttipsandtricks.nl/wp-content/plugins/add-to-any/addtoany.min.js' id='addtoany-jquery-js'></script>
+
+<!-- Google Analytics snippet toegevoegd door Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=G-9EXLYDC24Q' id='google_gtagjs-js' async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.icttipsandtricks.nl"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-9EXLYDC24Q");
+</script>
+
+<!-- Einde Google Analytics snippet toegevoegd door Site Kit -->
+<link rel="https://api.w.org/" href="https://www.icttipsandtricks.nl/wp-json/" /><link rel="alternate" type="application/json" href="https://www.icttipsandtricks.nl/wp-json/wp/v2/posts/1967" /><link rel="alternate" type="application/json+oembed" href="https://www.icttipsandtricks.nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.icttipsandtricks.nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.109.0" />		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "ho9jz733m2");
+		</script>
+		
+<!-- Google AdSense snippet toegevoegd door Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Einde Google AdSense snippet toegevoegd door Site Kit -->
+
+<!-- Google AdSense snippet toegevoegd door Site Kit -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3757741063522253&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
+
+<!-- Einde Google AdSense snippet toegevoegd door Site Kit -->
+
+<!-- Google AdSense Ad Blocking Recovery snippet toegevoegd door Site Kit -->
+<script async src="https://fundingchoicesmessages.google.com/i/pub-3757741063522253?ers=1" nonce="xM0C2cOWC43GdZdr5GtjhQ"></script><script nonce="xM0C2cOWC43GdZdr5GtjhQ">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- Google AdSense Ad Blocking Recovery snippet toegevoegd door Site Kit -->
+
+<!-- Google AdSense Ad Blocking Recovery Error Protection snippet toegevoegd door Site Kit -->
+<script>(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function ea(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var fa=ea(this);function ha(a,b){if(b)a:{var c=fa;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
+var ia="function"==typeof Object.create?Object.create:function(a){function b(){}b.prototype=a;return new b},l;if("function"==typeof Object.setPrototypeOf)l=Object.setPrototypeOf;else{var m;a:{var ja={a:!0},ka={};try{ka.__proto__=ja;m=ka.a;break a}catch(a){}m=!1}l=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}var la=l;
+function n(a,b){a.prototype=ia(b.prototype);a.prototype.constructor=a;if(la)la(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.A=b.prototype}function ma(){for(var a=Number(this),b=[],c=a;c<arguments.length;c++)b[c-a]=arguments[c];return b}
+var na="function"==typeof Object.assign?Object.assign:function(a,b){for(var c=1;c<arguments.length;c++){var d=arguments[c];if(d)for(var e in d)Object.prototype.hasOwnProperty.call(d,e)&&(a[e]=d[e])}return a};ha("Object.assign",function(a){return a||na});/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var p=this||self;function q(a){return a};var t,u;a:{for(var oa=["CLOSURE_FLAGS"],v=p,x=0;x<oa.length;x++)if(v=v[oa[x]],null==v){u=null;break a}u=v}var pa=u&&u[610401301];t=null!=pa?pa:!1;var z,qa=p.navigator;z=qa?qa.userAgentData||null:null;function A(a){return t?z?z.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function B(a){var b;a:{if(b=p.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function C(){return t?!!z&&0<z.brands.length:!1}function D(){return C()?A("Chromium"):(B("Chrome")||B("CriOS"))&&!(C()?0:B("Edge"))||B("Silk")};var ra=C()?!1:B("Trident")||B("MSIE");!B("Android")||D();D();B("Safari")&&(D()||(C()?0:B("Coast"))||(C()?0:B("Opera"))||(C()?0:B("Edge"))||(C()?A("Microsoft Edge"):B("Edg/"))||C()&&A("Opera"));var sa={},E=null;var ta="undefined"!==typeof Uint8Array,ua=!ra&&"function"===typeof btoa;var F="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0,G=F?function(a,b){a[F]|=b}:function(a,b){void 0!==a.g?a.g|=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function va(a){var b=H(a);1!==(b&1)&&(Object.isFrozen(a)&&(a=Array.prototype.slice.call(a)),I(a,b|1))}
+var H=F?function(a){return a[F]|0}:function(a){return a.g|0},J=F?function(a){return a[F]}:function(a){return a.g},I=F?function(a,b){a[F]=b}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function wa(){var a=[];G(a,1);return a}function xa(a,b){I(b,(a|0)&-99)}function K(a,b){I(b,(a|34)&-73)}function L(a){a=a>>11&1023;return 0===a?536870912:a};var M={};function N(a){return null!==a&&"object"===typeof a&&!Array.isArray(a)&&a.constructor===Object}var O,ya=[];I(ya,39);O=Object.freeze(ya);var P;function Q(a,b){P=b;a=new a(b);P=void 0;return a}
+function R(a,b,c){null==a&&(a=P);P=void 0;if(null==a){var d=96;c?(a=[c],d|=512):a=[];b&&(d=d&-2095105|(b&1023)<<11)}else{if(!Array.isArray(a))throw Error();d=H(a);if(d&64)return a;d|=64;if(c&&(d|=512,c!==a[0]))throw Error();a:{c=a;var e=c.length;if(e){var f=e-1,g=c[f];if(N(g)){d|=256;b=(d>>9&1)-1;e=f-b;1024<=e&&(za(c,b,g),e=1023);d=d&-2095105|(e&1023)<<11;break a}}b&&(g=(d>>9&1)-1,b=Math.max(b,e-g),1024<b&&(za(c,g,{}),d|=256,b=1023),d=d&-2095105|(b&1023)<<11)}}I(a,d);return a}
+function za(a,b,c){for(var d=1023+b,e=a.length,f=d;f<e;f++){var g=a[f];null!=g&&g!==c&&(c[f-b]=g)}a.length=d+1;a[d]=c};function Aa(a){switch(typeof a){case "number":return isFinite(a)?a:String(a);case "boolean":return a?1:0;case "object":if(a&&!Array.isArray(a)&&ta&&null!=a&&a instanceof Uint8Array){if(ua){for(var b="",c=0,d=a.length-10240;c<d;)b+=String.fromCharCode.apply(null,a.subarray(c,c+=10240));b+=String.fromCharCode.apply(null,c?a.subarray(c):a);a=btoa(b)}else{void 0===b&&(b=0);if(!E){E={};c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split("");d=["+/=","+/","-_=","-_.","-_"];for(var e=
+0;5>e;e++){var f=c.concat(d[e].split(""));sa[e]=f;for(var g=0;g<f.length;g++){var h=f[g];void 0===E[h]&&(E[h]=g)}}}b=sa[b];c=Array(Math.floor(a.length/3));d=b[64]||"";for(e=f=0;f<a.length-2;f+=3){var k=a[f],w=a[f+1];h=a[f+2];g=b[k>>2];k=b[(k&3)<<4|w>>4];w=b[(w&15)<<2|h>>6];h=b[h&63];c[e++]=g+k+w+h}g=0;h=d;switch(a.length-f){case 2:g=a[f+1],h=b[(g&15)<<2]||d;case 1:a=a[f],c[e]=b[a>>2]+b[(a&3)<<4|g>>4]+h+d}a=c.join("")}return a}}return a};function Ba(a,b,c){a=Array.prototype.slice.call(a);var d=a.length,e=b&256?a[d-1]:void 0;d+=e?-1:0;for(b=b&512?1:0;b<d;b++)a[b]=c(a[b]);if(e){b=a[b]={};for(var f in e)Object.prototype.hasOwnProperty.call(e,f)&&(b[f]=c(e[f]))}return a}function Da(a,b,c,d,e,f){if(null!=a){if(Array.isArray(a))a=e&&0==a.length&&H(a)&1?void 0:f&&H(a)&2?a:Ea(a,b,c,void 0!==d,e,f);else if(N(a)){var g={},h;for(h in a)Object.prototype.hasOwnProperty.call(a,h)&&(g[h]=Da(a[h],b,c,d,e,f));a=g}else a=b(a,d);return a}}
+function Ea(a,b,c,d,e,f){var g=d||c?H(a):0;d=d?!!(g&32):void 0;a=Array.prototype.slice.call(a);for(var h=0;h<a.length;h++)a[h]=Da(a[h],b,c,d,e,f);c&&c(g,a);return a}function Fa(a){return a.s===M?a.toJSON():Aa(a)};function Ga(a,b,c){c=void 0===c?K:c;if(null!=a){if(ta&&a instanceof Uint8Array)return b?a:new Uint8Array(a);if(Array.isArray(a)){var d=H(a);if(d&2)return a;if(b&&!(d&64)&&(d&32||0===d))return I(a,d|34),a;a=Ea(a,Ga,d&4?K:c,!0,!1,!0);b=H(a);b&4&&b&2&&Object.freeze(a);return a}a.s===M&&(b=a.h,c=J(b),a=c&2?a:Q(a.constructor,Ha(b,c,!0)));return a}}function Ha(a,b,c){var d=c||b&2?K:xa,e=!!(b&32);a=Ba(a,b,function(f){return Ga(f,e,d)});G(a,32|(c?2:0));return a};function Ia(a,b){a=a.h;return Ja(a,J(a),b)}function Ja(a,b,c,d){if(-1===c)return null;if(c>=L(b)){if(b&256)return a[a.length-1][c]}else{var e=a.length;if(d&&b&256&&(d=a[e-1][c],null!=d))return d;b=c+((b>>9&1)-1);if(b<e)return a[b]}}function Ka(a,b,c,d,e){var f=L(b);if(c>=f||e){e=b;if(b&256)f=a[a.length-1];else{if(null==d)return;f=a[f+((b>>9&1)-1)]={};e|=256}f[c]=d;e&=-1025;e!==b&&I(a,e)}else a[c+((b>>9&1)-1)]=d,b&256&&(d=a[a.length-1],c in d&&delete d[c]),b&1024&&I(a,b&-1025)}
+function La(a,b){var c=Ma;var d=void 0===d?!1:d;var e=a.h;var f=J(e),g=Ja(e,f,b,d);var h=!1;if(null==g||"object"!==typeof g||(h=Array.isArray(g))||g.s!==M)if(h){var k=h=H(g);0===k&&(k|=f&32);k|=f&2;k!==h&&I(g,k);c=new c(g)}else c=void 0;else c=g;c!==g&&null!=c&&Ka(e,f,b,c,d);e=c;if(null==e)return e;a=a.h;f=J(a);f&2||(g=e,c=g.h,h=J(c),g=h&2?Q(g.constructor,Ha(c,h,!1)):g,g!==e&&(e=g,Ka(a,f,b,e,d)));return e}function Na(a,b){a=Ia(a,b);return null==a||"string"===typeof a?a:void 0}
+function Oa(a,b){a=Ia(a,b);return null!=a?a:0}function S(a,b){a=Na(a,b);return null!=a?a:""};function T(a,b,c){this.h=R(a,b,c)}T.prototype.toJSON=function(){var a=Ea(this.h,Fa,void 0,void 0,!1,!1);return Pa(this,a,!0)};T.prototype.s=M;T.prototype.toString=function(){return Pa(this,this.h,!1).toString()};
+function Pa(a,b,c){var d=a.constructor.v,e=L(J(c?a.h:b)),f=!1;if(d){if(!c){b=Array.prototype.slice.call(b);var g;if(b.length&&N(g=b[b.length-1]))for(f=0;f<d.length;f++)if(d[f]>=e){Object.assign(b[b.length-1]={},g);break}f=!0}e=b;c=!c;g=J(a.h);a=L(g);g=(g>>9&1)-1;for(var h,k,w=0;w<d.length;w++)if(k=d[w],k<a){k+=g;var r=e[k];null==r?e[k]=c?O:wa():c&&r!==O&&va(r)}else h||(r=void 0,e.length&&N(r=e[e.length-1])?h=r:e.push(h={})),r=h[k],null==h[k]?h[k]=c?O:wa():c&&r!==O&&va(r)}d=b.length;if(!d)return b;
+var Ca;if(N(h=b[d-1])){a:{var y=h;e={};c=!1;for(var ca in y)Object.prototype.hasOwnProperty.call(y,ca)&&(a=y[ca],Array.isArray(a)&&a!=a&&(c=!0),null!=a?e[ca]=a:c=!0);if(c){for(var rb in e){y=e;break a}y=null}}y!=h&&(Ca=!0);d--}for(;0<d;d--){h=b[d-1];if(null!=h)break;var cb=!0}if(!Ca&&!cb)return b;var da;f?da=b:da=Array.prototype.slice.call(b,0,d);b=da;f&&(b.length=d);y&&b.push(y);return b};function Qa(a){return function(b){if(null==b||""==b)b=new a;else{b=JSON.parse(b);if(!Array.isArray(b))throw Error(void 0);G(b,32);b=Q(a,b)}return b}};function Ra(a){this.h=R(a)}n(Ra,T);var Sa=Qa(Ra);var U;function V(a){this.g=a}V.prototype.toString=function(){return this.g+""};var Ta={};function Ua(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};function Va(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)}function Wa(a){this.g=a||p.document||document}Wa.prototype.appendChild=function(a,b){a.appendChild(b)};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+function Xa(a,b){a.src=b instanceof V&&b.constructor===V?b.g:"type_error:TrustedResourceUrl";var c,d;(c=(b=null==(d=(c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(c,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",c)};function Ya(a){a=void 0===a?document:a;return a.createElement("script")};function Za(a,b,c,d,e,f){try{var g=a.g,h=Ya(g);h.async=!0;Xa(h,b);g.head.appendChild(h);h.addEventListener("load",function(){e();d&&g.head.removeChild(h)});h.addEventListener("error",function(){0<c?Za(a,b,c-1,d,e,f):(d&&g.head.removeChild(h),f())})}catch(k){f()}};var $a=p.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ab=p.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),bb=p.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu");function db(a,b,c){this.i=a;this.l=new Wa(this.i);this.g=null;this.j=[];this.m=!1;this.u=b;this.o=c}
+function eb(a){if(a.i.body&&!a.m){var b=function(){fb(a);p.setTimeout(function(){return gb(a,3)},50)};Za(a.l,a.u,2,!0,function(){p[a.o]||b()},b);a.m=!0}}
+function fb(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.i.body.appendChild(d);a.j.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=hb(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=hb(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,
+85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Va(a.l.g,"IMG");d.className=Ua();d.src=$a;d.alt="Warning icon";d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ab;var g=X(a);g.textContent=bb;Y(a,e,f);Y(a,e,g);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.i.body.appendChild(a.g);b=W(1,5);for(c=
+0;c<b;c++)d=X(a),a.i.body.appendChild(d),a.j.push(d)}function Y(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)}function W(a,b){return Math.floor(a+Math.random()*(b-a))}function hb(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,255)).toString()+")"}function X(a){a=Va(a.l.g,"DIV");a.className=Ua();return a}
+function gb(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(ib(a),fb(a),p.setTimeout(function(){return gb(a,b-1)},50))}
+function ib(a){var b=a.j;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];if(c)b=c.call(b);else if("number"==typeof b.length)b={next:aa(b)};else throw Error(String(b)+" is not an iterable or ArrayLike");for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.j=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};function jb(a,b,c,d,e){function f(k){document.body?g(document.body):0<k?p.setTimeout(function(){f(k-1)},e):b()}function g(k){k.appendChild(h);p.setTimeout(function(){h?(0!==h.offsetHeight&&0!==h.offsetWidth?b():a(),h.parentNode&&h.parentNode.removeChild(h)):a()},d)}var h=kb(c);f(3)}function kb(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};function Ma(a){this.h=R(a)}n(Ma,T);function lb(a){this.h=R(a)}n(lb,T);var mb=Qa(lb);function nb(a){a=Na(a,4)||"";if(void 0===U){var b=null;var c=p.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:q,createScript:q,createScriptURL:q})}catch(d){p.console&&p.console.error(d.message)}U=b}else U=b}a=(b=U)?b.createScriptURL(a):a;return new V(a,Ta)};function ob(a,b){this.m=a;this.o=new Wa(a.document);this.g=b;this.j=S(this.g,1);this.u=nb(La(this.g,2));this.i=!1;b=nb(La(this.g,13));this.l=new db(a.document,b,S(this.g,12))}ob.prototype.start=function(){pb(this)};
+function pb(a){qb(a);Za(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=p.btoa(b);if(c=p[c]){try{var d=Sa(p.atob(c))}catch(e){b=!1;break a}b=b===Na(d,1)}else b=!1}b?Z(a,S(a.g,14)):(Z(a,S(a.g,8)),eb(a.l))},function(){jb(function(){Z(a,S(a.g,7));eb(a.l)},function(){return Z(a,S(a.g,6))},S(a.g,9),Oa(a.g,10),Oa(a.g,11))})}function Z(a,b){a.i||(a.i=!0,a=new a.m.XMLHttpRequest,a.open("GET",b,!0),a.send())}function qb(a){var b=p.btoa(a.j);a.m[b]&&Z(a,S(a.g,5))};(function(a,b){p[a]=function(){var c=ma.apply(0,arguments);p[a]=function(){};b.apply(null,c)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ob(window,mb(window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItMzc1Nzc0MTA2MzUyMjI1MyIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi0zNzU3NzQxMDYzNTIyMjUzIl0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hXb01RYk1SN2owWWp3Vkt0dVFzRFA4cnJLU092SExxNWx1RTJuRU1adXR0NFZxclFaY1ZraHV3eTU2X2tHMjUwdjJYa3dnQmQ0MmM4SGphQzM3VkZXSzdBXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZ2RkMyOVBka1MyejBVVUFhU0wtOWNTTnlDQ3lkd1dFa25Lc05JTnBXaWVVZFFfR3Z4TEFrN2lhaS1EOVdpTDlTYk9jaG5HRHBjdUZBR045cGE3YXg2aEFcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZhY1NjeVhIeFBMbHo2NWRQNFNwNFJMQzRIemNXY3E5YmNYelo3d2toamVtYzJ6XzJPY1gtZV9DdmZNUVhqMWhTZ0JIZmZFOG90bHJERWlzU3hkM3FTVHdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFV3R1haU0Z2a2tyYm9rZ1cxTlIwNm9nUUQwd1RYS3ZaaDVqQ0EyeDdzQ3FsODVvNF9CU05XMTg5ZllWVWZoNXdwckdBa00zanJSOEU2MFo5MS1ZNEZpcFFcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUTTNOVGMzTkRFd05qTTFNakl5TlRNXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi0zNzU3NzQxMDYzNTIyMjUzLmpzP3VzcXBcdTAwM2RDQUUiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4V1BUbUhQR0tMcGEtalRkcmZ1QVdwOURhZTk3UGtKR0IwcWtyU0JuWjRBNnc5cUU5ZzVzaW5RVlhkWGlsM2drcmtaRmFKTG42dkZpbTdyeTVKTGNHN2xCQVx1MDAzZFx1MDAzZCJd");</script>
+<!-- Beëindig Google AdSense Ad Blocking Recovery Error Protection snippet toegevoegd door Site Kit -->
+<link rel="icon" href="https://www.icttipsandtricks.nl/wp-content/uploads/2016/09/cropped-tipsandtricks-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.icttipsandtricks.nl/wp-content/uploads/2016/09/cropped-tipsandtricks-300x300.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.icttipsandtricks.nl/wp-content/uploads/2016/09/cropped-tipsandtricks-300x300.jpg" />
+<meta name="msapplication-TileImage" content="https://www.icttipsandtricks.nl/wp-content/uploads/2016/09/cropped-tipsandtricks-300x300.jpg" />
+</head>
+
+<body data-rsssl=1 itemtype='https://schema.org/Blog' itemscope='itemscope' class="post-template-default single single-post postid-1967 single-format-standard ast-desktop ast-separate-container ast-right-sidebar astra-4.3.1 ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled">
+
+<a
+	class="skip-link screen-reader-text"
+	href="#content"
+	role="link"
+	title="Ga naar de inhoud">
+		Ga naar de inhoud</a>
+
+<div
+class="hfeed site" id="page">
+			<header
+		class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap ">
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item" data-section="section-primary-header-builder">
+						<div class="site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-primary-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+											<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<div class="ast-site-title-wrap">
+						<span class="site-title" itemprop="name">
+				<a href="https://www.icttipsandtricks.nl/" rel="home" itemprop="url" >
+					ICT Tips and Tricks!
+				</a>
+			</span>
+						
+				</div>				</div>
+			<!-- .site-branding -->
+					</div>
+								</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation-desktop" aria-label="Site navigatie" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile"><li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-27"><a href="https://www.icttipsandtricks.nl/" class="menu-link">Home</a></li>
+<li id="menu-item-8173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8173"><a href="https://www.icttipsandtricks.nl/computer-reparatie-service/" class="menu-link">Computer Reparatie Service</a></li>
+<li id="menu-item-185" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-185"><a href="https://www.icttipsandtricks.nl/category/blogs/" class="menu-link">Blogs<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu schakelen" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu schakelen</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
+<ul class="sub-menu">
+	<li id="menu-item-6877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6877"><a href="https://www.icttipsandtricks.nl/gerealiseerde-projecten-van-frank/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Gerealiseerde projecten van Frank</a></li>
+	<li id="menu-item-3382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3382"><a href="https://www.icttipsandtricks.nl/diverse-handige-tools/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Diverse handige tools !</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-294"><a href="https://www.icttipsandtricks.nl/category/informatie/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Informatie</a></li>
+	<li id="menu-item-186" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-186"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Tech<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu schakelen" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu schakelen</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
+	<ul class="sub-menu">
+		<li id="menu-item-308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/ms-windows-os/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>MS Windows OS</a></li>
+		<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-272"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/ms-server-os/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>MS Server OS</a></li>
+		<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/software/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Software</a></li>
+		<li id="menu-item-246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-246"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/microsoft-exchange/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Microsoft Exchange</a></li>
+		<li id="menu-item-267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-267"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/ms-office/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>MS Office</a></li>
+		<li id="menu-item-248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-248"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/vmware/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>vMWare</a></li>
+		<li id="menu-item-403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/sonicwall/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Sonicwall</a></li>
+		<li id="menu-item-259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/switches/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Switches</a></li>
+		<li id="menu-item-247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-247"><a href="https://www.icttipsandtricks.nl/category/blogs/tech/hardware/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Hardware</a></li>
+	</ul>
+</li>
+	<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-170"><a href="https://www.icttipsandtricks.nl/category/blogs/gadgets/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Gadgets</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-242"><a href="https://www.icttipsandtricks.nl/category/blogs/fotografie/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Fotografie</a></li>
+</ul>
+</li>
+<li id="menu-item-2050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2050"><a href="https://www.icttipsandtricks.nl/al-onze-artikelen/" class="menu-link">Al onze artikelen</a></li>
+<li id="menu-item-1344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1344"><a href="https://www.icttipsandtricks.nl/neem-contact-met-ons-op/" class="menu-link">Contact !<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu schakelen" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu schakelen</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
+<ul class="sub-menu">
+	<li id="menu-item-7002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-7002"><a rel="privacy-policy" href="https://www.icttipsandtricks.nl/privacybeleid/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Privacybeleid</a></li>
+	<li id="menu-item-620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-620"><a target="_blank" rel="noopener" href="https://www.facebook.com/ICTTipsAndTricks/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Facebook</a></li>
+	<li id="menu-item-993" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-993"><a href="https://www.icttipsandtricks.nl/2016/10/07/waarom-deze-website/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Waarom deze website ?</a></li>
+	<li id="menu-item-3396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3396"><a href="https://www.icttipsandtricks.nl/ict-linkbuilding/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>ICT Linkbuilding</a></li>
+</ul>
+</li>
+</ul></div></nav></div></div>		</div>
+									</div>
+												</div>
+					</div>
+								</div>
+			</div>
+		<div class="ast-desktop-header-content content-align-flex-start ">
+			</div>
+</div> <!-- Main Header Bar Wrap -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap" >
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<div class="ast-site-title-wrap">
+						<span class="site-title" itemprop="name">
+				<a href="https://www.icttipsandtricks.nl/" rel="home" itemprop="url" >
+					ICT Tips and Tricks!
+				</a>
+			</span>
+						
+				</div>				</div>
+			<!-- .site-branding -->
+					</div>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal"   aria-expanded="false">
+					<span class="screen-reader-text">Main Menu</span>
+					<span class="mobile-menu-toggle-icon">
+						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-menu-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z'></path></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-close-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></path></svg></span>					</span>
+									</button>
+			</div>
+					</div>
+									</div>
+											</div>
+						</div>
+	</div>
+		<div class="ast-mobile-header-content content-align-flex-start ">
+				<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation" id="ast-mobile-site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="site-navigation ast-flex-grow-1 navigation-accessibility" aria-label="Site navigatie"><div id="ast-hf-mobile-menu" class="main-navigation"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-13347 menu-item"><a href="https://www.icttipsandtricks.nl/cookie-verklaring/" class="menu-link">Cookie verklaring</a></li><li class="page_item page-item-1310 menu-item"><a href="https://www.icttipsandtricks.nl/wishlist/" class="menu-link">Wishlist</a></li><li class="page_item page-item-1311 menu-item"><a href="https://www.icttipsandtricks.nl/activity/" class="menu-link">Activity</a></li><li class="page_item page-item-1312 menu-item"><a href="https://www.icttipsandtricks.nl/members/" class="menu-link">Members</a></li><li class="page_item page-item-1342 menu-item"><a href="https://www.icttipsandtricks.nl/neem-contact-met-ons-op/" class="menu-link">Neem contact met ons op !</a></li><li class="page_item page-item-1452 menu-item"><a href="https://www.icttipsandtricks.nl/" class="menu-link">Welkom bij ICT Tips and Tricks !</a></li><li class="page_item page-item-1793 menu-item"><a href="https://www.icttipsandtricks.nl/ict-linkbuilding/" class="menu-link">ICT Linkbuilding</a></li><li class="page_item page-item-1842 menu-item"><a href="https://www.icttipsandtricks.nl/items/" class="menu-link">Items</a></li><li class="page_item page-item-2047 menu-item"><a href="https://www.icttipsandtricks.nl/al-onze-artikelen/" class="menu-link">Al onze artikelen</a></li><li class="page_item page-item-2789 menu-item"><a href="https://www.icttipsandtricks.nl/webshop/" class="menu-link">Webshop</a></li><li class="page_item page-item-2803 menu-item"><a href="https://www.icttipsandtricks.nl/zoek-resultaten/" class="menu-link">Zoek Resultaten</a></li><li class="page_item page-item-3380 menu-item"><a href="https://www.icttipsandtricks.nl/diverse-handige-tools/" class="menu-link">Diverse handige tools !</a></li><li class="page_item page-item-6147 menu-item"><a href="https://www.icttipsandtricks.nl/welcome-to-ict-tips-and-tricks/" class="menu-link">Welcome to ICT Tips and Tricks!</a></li><li class="page_item page-item-6434 menu-item"><a href="https://www.icttipsandtricks.nl/adblocker-gedetecteerd/" class="menu-link">Adblocker gedetecteerd</a></li><li class="page_item page-item-6479 menu-item"><a href="https://www.icttipsandtricks.nl/coole-custom-build-pcs-showcase/" class="menu-link">Coole Custom Build PC&#8217;s Showcase</a></li><li class="page_item page-item-6875 menu-item"><a href="https://www.icttipsandtricks.nl/gerealiseerde-projecten-van-frank/" class="menu-link">Gerealiseerde projecten van Frank</a></li><li class="page_item page-item-6965 menu-item"><a href="https://www.icttipsandtricks.nl/privacybeleid/" class="menu-link">Privacybeleid</a></li><li class="page_item page-item-7599 menu-item"><a href="https://www.icttipsandtricks.nl/ict-nieuws-berichten/" class="menu-link">ICT Nieuws Berichten</a></li><li class="page_item page-item-8116 menu-item"><a href="https://www.icttipsandtricks.nl/computer-reparatie-service/" class="menu-link">Computer Reparatie Service</a></li></ul></div></nav></div></div>		</div>
+			</div>
+</div>
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				
+
+<article
+class="post-1967 post type-post status-publish format-standard has-post-thumbnail hentry category-handleidingen category-hoe-werkt-dat-nou ast-article-single" id="post-1967" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	
+<div class="ast-post-format- single-layout-1">
+
+	
+	
+		<header class="entry-header ">
+
+			
+			<h1 class="entry-title" itemprop="headline">Binair rekenen</h1><div class="entry-meta">Door <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="Alle posts weergeven van Frank Mazzone"
+				href="https://www.icttipsandtricks.nl/author/frank/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>
+				Frank Mazzone			</span>
+			</a>
+		</span>
+
+		 / <span class="posted-on"><span class="published" itemprop="datePublished"> 5 november 2016 </span></span></div>
+			
+		</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content clear"
+	itemprop="text"	>
+
+		
+		<h1>Binair Rekenen</h1>
+<p>Misschien klinkt het wat suf dat &#8220;binair rekenen&#8221; maar je computer doet eigenlijk niets anders dan dat !<br />
+Maar het binaire systeem is zelfs overal om ons heen.<br />
+Neem nu een lichtschakelaar : deze kan aan en uit&#8230;binair dus (aan = 1, uit  = 0)<br />
+Nu weet je ook meteen waarom op de meeste schakelaars een 1 en een 0 staat.</p>
+<p>Naast binaire getallen kennen we ook <a href="https://www.icttipsandtricks.nl/2023/06/16/hexadecimaal-rekenen-een-gids-voor-beginners/">hexadecimale getallen</a>. Ook een stelsel dat veel binnen de automatisering gebruikt wordt.</p>
+<p>Waaruit dacht je dat letters, cijfers en andere karakters uit bestaan ?<br />
+Elk karakter is opgebouwd 1 byte, wat weer 8 bits zijn. een bit kan dan weer een 1 of een 0 zijn.<br />
+Zo kan een karakter bestaan uit 01001001, maar wat voor karakter komt daar nu uit ?</p>
+<p>Elk karakter heeft een ASCII code en om de ASCII code te weten, zullen we moeten gaan rekenen met binaire getallen.<br />
+Dit klinkt moeilijker dan dat het eigenlijk is.<br />
+Wanneer we 1 byte, dus 8 bits pakken, hebben we een reeks van 8 enen of nullen. De positie van de bits zijn weer belangrijk voor de waarde er van.<br />
+De maximale waarde van 1 byte is 255.</p>
+<p>We gaan dit even uiteenzetten aan de hand van 01001001 :<br />
+Eigenlijk is het een optelsommetje van de decimale waardes die bij de active bits, dus de enen, horen.<br />
+In onderstaande tabel tellen we de <em>decimale waardes</em> bij elkaar op die bij de corresponderende bits horen</p>
+<table>
+<tbody>
+<tr>
+<td>Bitwaarde</td>
+<td>0</td>
+<td><strong>1</strong></td>
+<td>0</td>
+<td>0</td>
+<td><strong>1</strong></td>
+<td>0</td>
+<td>0</td>
+<td><strong>1</strong></td>
+</tr>
+<tr>
+<td>Decimale waarde</td>
+<td>128</td>
+<td><strong>64</strong></td>
+<td>32</td>
+<td>16</td>
+<td><strong>8</strong></td>
+<td>4</td>
+<td>2</td>
+<td><strong>1</strong></td>
+</tr>
+</tbody>
+</table>
+<p>OK, we hebben nu de decimale waardes die bij de actieve bits horen : 64 + 8 + 1 = 73<br />
+73 is de ASCII waarde voor de letter I</p>
+<p>Nog eentje :</p>
+<table>
+<tbody>
+<tr style="height: 21px;">
+<td style="height: 21px;">Bitwaarde</td>
+<td style="height: 21px;">0</td>
+<td style="height: 21px;"><strong>1</strong></td>
+<td style="height: 21px;">0</td>
+<td style="height: 21px;">0</td>
+<td style="height: 21px;">0</td>
+<td style="height: 21px;">0</td>
+<td style="height: 21px;"><strong>1</strong></td>
+<td style="height: 21px;"><strong>1</strong></td>
+</tr>
+<tr style="height: 21px;">
+<td style="height: 21px;">Decimale waarde</td>
+<td style="height: 21px;">128</td>
+<td style="height: 21px;"><strong>64</strong></td>
+<td style="height: 21px;">32</td>
+<td style="height: 21px;">16</td>
+<td style="height: 21px;">8</td>
+<td style="height: 21px;">4</td>
+<td style="height: 21px;"><strong>2</strong></td>
+<td style="height: 21px;"><strong>1</strong></td>
+</tr>
+</tbody>
+</table>
+<p>De ASCII waarde is : 64 + 2 + 1 = 67<br />
+Het karakter wat ASCII 67 is : de letter C</p>
+<p>Zie je hoe makkelijk dit eigenlijk is ?<br />
+Zo is bijvoorbeeld de binaire waarde voor <em>ICT Tips and Tricks :</em></p>
+<p>01001001010000110101010000100000010101000110100101110000011100110010000001100001011011100110010000100000010101000111001001101001011000110110101101110011</p>
+<h3>Terug van ASCII naar Binair</h3>
+<p>Van ASCII/Decimaal terug naar binair is ook niet zo moeilijk.<br />
+Van een decimaal getal trek je steeds 1 binaire positie af, bijvoorbeeld 189 :</p>
+<p>189 &#8211; 128 = 61, dus de eerste bit is een 1<br />
+61 &#8211; 64 = -3, dit is negatief en kan dus niet, de 2e bit is een 0<br />
+61 &#8211; 32 = 29, de derde bit is een 1<br />
+29 &#8211; 16 = 13, de vierde bit is een 1<br />
+13 &#8211; 8 = 5, de vijfde bit is een 1<br />
+5 &#8211; 4 = 1, de zesde bit is een 1<br />
+1 &#8211; 2 = -1, ook weer negatief en dus niet mogelijk. Zevende bit is een 0<br />
+1 &#8211; 1 = 0, achtste bit is weer een 1</p>
+<p>189 decimaal is dus 10111101 binair !</p>
+<h3>Binair optellen</h3>
+<p>Je kunt ook binaire getallen optellen, aftrekken, vermenigvuldigen en delen.<br />
+Dit werkt eigenlijk hetzelfde als het normale decimale stelsel waarbij je in gedachten moet houden dat je nooit hoger kunt dan 1 of lager dan 0</p>
+<p>Om bijvoorbeeld 26 + 38 in binaire getallen uit te rekenen gaan we zo te werk :</p>
+<p>26 = 00011010<br />
+38 = 00100110</p>
+<p>Deze zetten we net zoals we op school geleerd hebben onder elkaar en tellen dan op van rechts naar links :</p>
+<p><em><strong>Onthouden :</strong></em><br />
+0 + 0 = 0<br />
+0 + 1 = 1<br />
+1 + 0 = 1<br />
+1 + 1 = 0 waarbij een 1 een positie naar links opschuift. dus hetzelfde als 5 + 5 =10 waarbij je een 0 opschrijft en 1 onthoudt.</p>
+<p><strong>De berekening :</strong><br />
+0 + 0 = <strong>0</strong><br />
+1 + 1 = <strong>0</strong> (1 onthouden)<br />
+1 + 0 + 1 = <strong>0</strong> (1 onthouden)<br />
+1 + 1 + 0 = <strong>0</strong> (1 onthouden)<br />
+1 + 1 + 0 = <strong>0</strong> (1 onthouden)<br />
+1 + 0 + 1 = <b>0</b> (1 onthouden)<br />
+1 + 0 + 0 = <strong>1</strong><br />
+0 + 0 = <strong>0</strong></p>
+<p>De uitkomst van 00011010 + 00100110 is dus 01000000</p>
+<p>En dan controleren of dit klopt :</p>
+<table>
+<tbody>
+<tr>
+<td>Binaire Waarde</td>
+<td>0</td>
+<td><strong>1</strong></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Decimale waarde</td>
+<td>128</td>
+<td><strong>64</strong></td>
+<td>32</td>
+<td>16</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>26 + 38 is inderdaad 64, de berekening klopt dus !</p>
+<p>En met aftrekken, vermenigvuldigen en delen werkt dit op dezelfde manier.<br />
+Onthoud altijd dat met het binaire stelsel je alleen maar van 0 tot 1 kunt tellen.</p>
+<p>Je kunt nu dus decimalen omzetten naar binaire getallen en andersom, deze optellen, aftrekken, delen en vermenigvuldigen !</p>
+<p>Tot slot nog de complete ASCII tabel zodat je eens kunt oefenen met het binaire stelsel of gewoon kunt zien welke codes er zijn.</p>
+<table>
+<tbody>
+<tr>
+<td valign="top">
+<table class="asciiTable">
+<tbody>
+<tr>
+<th nowrap="nowrap">Text</th>
+<th nowrap="nowrap">ASCII</th>
+<th nowrap="nowrap">Binary</th>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(0)</td>
+<td nowrap="nowrap"> 00000000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(1)</td>
+<td nowrap="nowrap"> 00000001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(2)</td>
+<td nowrap="nowrap"> 00000010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(3)</td>
+<td nowrap="nowrap"> 00000011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(4)</td>
+<td nowrap="nowrap"> 00000100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(5)</td>
+<td nowrap="nowrap"> 00000101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(6)</td>
+<td nowrap="nowrap"> 00000110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(7)</td>
+<td nowrap="nowrap"> 00000111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(8)</td>
+<td nowrap="nowrap"> 00001000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(9)</td>
+<td nowrap="nowrap"> 00001001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(10)</td>
+<td nowrap="nowrap"> 00001010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(11)</td>
+<td nowrap="nowrap"> 00001011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(12)</td>
+<td nowrap="nowrap"> 00001100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(13)</td>
+<td nowrap="nowrap"> 00001101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(14)</td>
+<td nowrap="nowrap"> 00001110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(15)</td>
+<td nowrap="nowrap"> 00001111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(16)</td>
+<td nowrap="nowrap"> 00010000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(17)</td>
+<td nowrap="nowrap"> 00010001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(18)</td>
+<td nowrap="nowrap"> 00010010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(19)</td>
+<td nowrap="nowrap"> 00010011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(20)</td>
+<td nowrap="nowrap"> 00010100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(21)</td>
+<td nowrap="nowrap"> 00010101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(22)</td>
+<td nowrap="nowrap"> 00010110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(23)</td>
+<td nowrap="nowrap"> 00010111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(24)</td>
+<td nowrap="nowrap"> 00011000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(25)</td>
+<td nowrap="nowrap"> 00011001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(26)</td>
+<td nowrap="nowrap"> 00011010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(27)</td>
+<td nowrap="nowrap"> 00011011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(28)</td>
+<td nowrap="nowrap"> 00011100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(29)</td>
+<td nowrap="nowrap"> 00011101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(30)</td>
+<td nowrap="nowrap"> 00011110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(31)</td>
+<td nowrap="nowrap"> 00011111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"></td>
+<td nowrap="nowrap"> chr(32)</td>
+<td nowrap="nowrap"> 00100000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> !</td>
+<td nowrap="nowrap"> chr(33)</td>
+<td nowrap="nowrap"> 00100001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> &#8220;</td>
+<td nowrap="nowrap"> chr(34)</td>
+<td nowrap="nowrap"> 00100010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> #</td>
+<td nowrap="nowrap"> chr(35)</td>
+<td nowrap="nowrap"> 00100011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> $</td>
+<td nowrap="nowrap"> chr(36)</td>
+<td nowrap="nowrap"> 00100100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> %</td>
+<td nowrap="nowrap"> chr(37)</td>
+<td nowrap="nowrap"> 00100101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> &amp;</td>
+<td nowrap="nowrap"> chr(38)</td>
+<td nowrap="nowrap"> 00100110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> &#8216;</td>
+<td nowrap="nowrap"> chr(39)</td>
+<td nowrap="nowrap"> 00100111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> (</td>
+<td nowrap="nowrap"> chr(40)</td>
+<td nowrap="nowrap"> 00101000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> )</td>
+<td nowrap="nowrap"> chr(41)</td>
+<td nowrap="nowrap"> 00101001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> *</td>
+<td nowrap="nowrap"> chr(42)</td>
+<td nowrap="nowrap"> 00101010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> +</td>
+<td nowrap="nowrap"> chr(43)</td>
+<td nowrap="nowrap"> 00101011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ,</td>
+<td nowrap="nowrap"> chr(44)</td>
+<td nowrap="nowrap"> 00101100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> &#8211;</td>
+<td nowrap="nowrap"> chr(45)</td>
+<td nowrap="nowrap"> 00101101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> .</td>
+<td nowrap="nowrap"> chr(46)</td>
+<td nowrap="nowrap"> 00101110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> /</td>
+<td nowrap="nowrap"> chr(47)</td>
+<td nowrap="nowrap"> 00101111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 0</td>
+<td nowrap="nowrap"> chr(48)</td>
+<td nowrap="nowrap"> 00110000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 1</td>
+<td nowrap="nowrap"> chr(49)</td>
+<td nowrap="nowrap"> 00110001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 2</td>
+<td nowrap="nowrap"> chr(50)</td>
+<td nowrap="nowrap"> 00110010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 3</td>
+<td nowrap="nowrap"> chr(51)</td>
+<td nowrap="nowrap"> 00110011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 4</td>
+<td nowrap="nowrap"> chr(52)</td>
+<td nowrap="nowrap"> 00110100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 5</td>
+<td nowrap="nowrap"> chr(53)</td>
+<td nowrap="nowrap"> 00110101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 6</td>
+<td nowrap="nowrap"> chr(54)</td>
+<td nowrap="nowrap"> 00110110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 7</td>
+<td nowrap="nowrap"> chr(55)</td>
+<td nowrap="nowrap"> 00110111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 8</td>
+<td nowrap="nowrap"> chr(56)</td>
+<td nowrap="nowrap"> 00111000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> 9</td>
+<td nowrap="nowrap"> chr(57)</td>
+<td nowrap="nowrap"> 00111001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> :</td>
+<td nowrap="nowrap"> chr(58)</td>
+<td nowrap="nowrap"> 00111010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ;</td>
+<td nowrap="nowrap"> chr(59)</td>
+<td nowrap="nowrap"> 00111011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> &lt;</td>
+<td nowrap="nowrap"> chr(60)</td>
+<td nowrap="nowrap"> 00111100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> =</td>
+<td nowrap="nowrap"> chr(61)</td>
+<td nowrap="nowrap"> 00111101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> &gt;</td>
+<td nowrap="nowrap"> chr(62)</td>
+<td nowrap="nowrap"> 00111110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ?</td>
+<td nowrap="nowrap"> chr(63)</td>
+<td nowrap="nowrap"> 00111111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> @</td>
+<td nowrap="nowrap"> chr(64)</td>
+<td nowrap="nowrap"> 01000000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> A</td>
+<td nowrap="nowrap"> chr(65)</td>
+<td nowrap="nowrap"> 01000001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> B</td>
+<td nowrap="nowrap"> chr(66)</td>
+<td nowrap="nowrap"> 01000010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> C</td>
+<td nowrap="nowrap"> chr(67)</td>
+<td nowrap="nowrap"> 01000011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> D</td>
+<td nowrap="nowrap"> chr(68)</td>
+<td nowrap="nowrap"> 01000100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> E</td>
+<td nowrap="nowrap"> chr(69)</td>
+<td nowrap="nowrap"> 01000101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> F</td>
+<td nowrap="nowrap"> chr(70)</td>
+<td nowrap="nowrap"> 01000110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> G</td>
+<td nowrap="nowrap"> chr(71)</td>
+<td nowrap="nowrap"> 01000111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> H</td>
+<td nowrap="nowrap"> chr(72)</td>
+<td nowrap="nowrap"> 01001000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> I</td>
+<td nowrap="nowrap"> chr(73)</td>
+<td nowrap="nowrap"> 01001001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> J</td>
+<td nowrap="nowrap"> chr(74)</td>
+<td nowrap="nowrap"> 01001010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> K</td>
+<td nowrap="nowrap"> chr(75)</td>
+<td nowrap="nowrap"> 01001011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> L</td>
+<td nowrap="nowrap"> chr(76)</td>
+<td nowrap="nowrap"> 01001100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> M</td>
+<td nowrap="nowrap"> chr(77)</td>
+<td nowrap="nowrap"> 01001101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> N</td>
+<td nowrap="nowrap"> chr(78)</td>
+<td nowrap="nowrap"> 01001110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> O</td>
+<td nowrap="nowrap"> chr(79)</td>
+<td nowrap="nowrap"> 01001111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> P</td>
+<td nowrap="nowrap"> chr(80)</td>
+<td nowrap="nowrap"> 01010000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Q</td>
+<td nowrap="nowrap"> chr(81)</td>
+<td nowrap="nowrap"> 01010001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> R</td>
+<td nowrap="nowrap"> chr(82)</td>
+<td nowrap="nowrap"> 01010010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> S</td>
+<td nowrap="nowrap"> chr(83)</td>
+<td nowrap="nowrap"> 01010011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> T</td>
+<td nowrap="nowrap"> chr(84)</td>
+<td nowrap="nowrap"> 01010100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> U</td>
+<td nowrap="nowrap"> chr(85)</td>
+<td nowrap="nowrap"> 01010101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> V</td>
+<td nowrap="nowrap"> chr(86)</td>
+<td nowrap="nowrap"> 01010110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> W</td>
+<td nowrap="nowrap"> chr(87)</td>
+<td nowrap="nowrap"> 01010111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> X</td>
+<td nowrap="nowrap"> chr(88)</td>
+<td nowrap="nowrap"> 01011000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Y</td>
+<td nowrap="nowrap"> chr(89)</td>
+<td nowrap="nowrap"> 01011001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Z</td>
+<td nowrap="nowrap"> chr(90)</td>
+<td nowrap="nowrap"> 01011010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> [</td>
+<td nowrap="nowrap"> chr(91)</td>
+<td nowrap="nowrap"> 01011011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> \</td>
+<td nowrap="nowrap"> chr(92)</td>
+<td nowrap="nowrap"> 01011100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ]</td>
+<td nowrap="nowrap"> chr(93)</td>
+<td nowrap="nowrap"> 01011101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ^</td>
+<td nowrap="nowrap"> chr(94)</td>
+<td nowrap="nowrap"> 01011110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> _</td>
+<td nowrap="nowrap"> chr(95)</td>
+<td nowrap="nowrap"> 01011111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> `</td>
+<td nowrap="nowrap"> chr(96)</td>
+<td nowrap="nowrap"> 01100000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> a</td>
+<td nowrap="nowrap"> chr(97)</td>
+<td nowrap="nowrap"> 01100001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> b</td>
+<td nowrap="nowrap"> chr(98)</td>
+<td nowrap="nowrap"> 01100010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> c</td>
+<td nowrap="nowrap"> chr(99)</td>
+<td nowrap="nowrap"> 01100011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> d</td>
+<td nowrap="nowrap"> chr(100)</td>
+<td nowrap="nowrap"> 01100100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> e</td>
+<td nowrap="nowrap"> chr(101)</td>
+<td nowrap="nowrap"> 01100101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> f</td>
+<td nowrap="nowrap"> chr(102)</td>
+<td nowrap="nowrap"> 01100110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> g</td>
+<td nowrap="nowrap"> chr(103)</td>
+<td nowrap="nowrap"> 01100111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> h</td>
+<td nowrap="nowrap"> chr(104)</td>
+<td nowrap="nowrap"> 01101000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> i</td>
+<td nowrap="nowrap"> chr(105)</td>
+<td nowrap="nowrap"> 01101001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> j</td>
+<td nowrap="nowrap"> chr(106)</td>
+<td nowrap="nowrap"> 01101010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> k</td>
+<td nowrap="nowrap"> chr(107)</td>
+<td nowrap="nowrap"> 01101011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> l</td>
+<td nowrap="nowrap"> chr(108)</td>
+<td nowrap="nowrap"> 01101100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> m</td>
+<td nowrap="nowrap"> chr(109)</td>
+<td nowrap="nowrap"> 01101101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n</td>
+<td nowrap="nowrap"> chr(110)</td>
+<td nowrap="nowrap"> 01101110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> o</td>
+<td nowrap="nowrap"> chr(111)</td>
+<td nowrap="nowrap"> 01101111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> p</td>
+<td nowrap="nowrap"> chr(112)</td>
+<td nowrap="nowrap"> 01110000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> q</td>
+<td nowrap="nowrap"> chr(113)</td>
+<td nowrap="nowrap"> 01110001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> r</td>
+<td nowrap="nowrap"> chr(114)</td>
+<td nowrap="nowrap"> 01110010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> s</td>
+<td nowrap="nowrap"> chr(115)</td>
+<td nowrap="nowrap"> 01110011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> t</td>
+<td nowrap="nowrap"> chr(116)</td>
+<td nowrap="nowrap"> 01110100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> u</td>
+<td nowrap="nowrap"> chr(117)</td>
+<td nowrap="nowrap"> 01110101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> v</td>
+<td nowrap="nowrap"> chr(118)</td>
+<td nowrap="nowrap"> 01110110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> w</td>
+<td nowrap="nowrap"> chr(119)</td>
+<td nowrap="nowrap"> 01110111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> x</td>
+<td nowrap="nowrap"> chr(120)</td>
+<td nowrap="nowrap"> 01111000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> y</td>
+<td nowrap="nowrap"> chr(121)</td>
+<td nowrap="nowrap"> 01111001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> z</td>
+<td nowrap="nowrap"> chr(122)</td>
+<td nowrap="nowrap"> 01111010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> {</td>
+<td nowrap="nowrap"> chr(123)</td>
+<td nowrap="nowrap"> 01111011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> |</td>
+<td nowrap="nowrap"> chr(124)</td>
+<td nowrap="nowrap"> 01111100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> }</td>
+<td nowrap="nowrap"> chr(125)</td>
+<td nowrap="nowrap"> 01111101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ~</td>
+<td nowrap="nowrap"> chr(126)</td>
+<td nowrap="nowrap"> 01111110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(127)</td>
+<td nowrap="nowrap"> 01111111</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<table class="asciiTable">
+<tbody>
+<tr>
+<th nowrap="nowrap">Text</th>
+<th nowrap="nowrap">ASCII</th>
+<th nowrap="nowrap">Binary</th>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(127)</td>
+<td nowrap="nowrap"> 01111111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> €</td>
+<td nowrap="nowrap"> chr(128)</td>
+<td nowrap="nowrap"> 10000000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(129)</td>
+<td nowrap="nowrap"> 10000001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ‚</td>
+<td nowrap="nowrap"> chr(130)</td>
+<td nowrap="nowrap"> 10000010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ƒ</td>
+<td nowrap="nowrap"> chr(131)</td>
+<td nowrap="nowrap"> 10000011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> „</td>
+<td nowrap="nowrap"> chr(132)</td>
+<td nowrap="nowrap"> 10000100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> …</td>
+<td nowrap="nowrap"> chr(133)</td>
+<td nowrap="nowrap"> 10000101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> †</td>
+<td nowrap="nowrap"> chr(134)</td>
+<td nowrap="nowrap"> 10000110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ‡</td>
+<td nowrap="nowrap"> chr(135)</td>
+<td nowrap="nowrap"> 10000111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ˆ</td>
+<td nowrap="nowrap"> chr(136)</td>
+<td nowrap="nowrap"> 10001000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ‰</td>
+<td nowrap="nowrap"> chr(137)</td>
+<td nowrap="nowrap"> 10001001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Š</td>
+<td nowrap="nowrap"> chr(138)</td>
+<td nowrap="nowrap"> 10001010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ‹</td>
+<td nowrap="nowrap"> chr(139)</td>
+<td nowrap="nowrap"> 10001011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Œ</td>
+<td nowrap="nowrap"> chr(140)</td>
+<td nowrap="nowrap"> 10001100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(141)</td>
+<td nowrap="nowrap"> 10001101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ž</td>
+<td nowrap="nowrap"> chr(142)</td>
+<td nowrap="nowrap"> 10001110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(143)</td>
+<td nowrap="nowrap"> 10001111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(144)</td>
+<td nowrap="nowrap"> 10010000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ‘</td>
+<td nowrap="nowrap"> chr(145)</td>
+<td nowrap="nowrap"> 10010001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ’</td>
+<td nowrap="nowrap"> chr(146)</td>
+<td nowrap="nowrap"> 10010010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> “</td>
+<td nowrap="nowrap"> chr(147)</td>
+<td nowrap="nowrap"> 10010011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ”</td>
+<td nowrap="nowrap"> chr(148)</td>
+<td nowrap="nowrap"> 10010100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> •</td>
+<td nowrap="nowrap"> chr(149)</td>
+<td nowrap="nowrap"> 10010101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> –</td>
+<td nowrap="nowrap"> chr(150)</td>
+<td nowrap="nowrap"> 10010110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> —</td>
+<td nowrap="nowrap"> chr(151)</td>
+<td nowrap="nowrap"> 10010111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ˜</td>
+<td nowrap="nowrap"> chr(152)</td>
+<td nowrap="nowrap"> 10011000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ™</td>
+<td nowrap="nowrap"> chr(153)</td>
+<td nowrap="nowrap"> 10011001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> š</td>
+<td nowrap="nowrap"> chr(154)</td>
+<td nowrap="nowrap"> 10011010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ›</td>
+<td nowrap="nowrap"> chr(155)</td>
+<td nowrap="nowrap"> 10011011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> œ</td>
+<td nowrap="nowrap"> chr(156)</td>
+<td nowrap="nowrap"> 10011100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> n/a</td>
+<td nowrap="nowrap"> chr(157)</td>
+<td nowrap="nowrap"> 10011101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ž</td>
+<td nowrap="nowrap"> chr(158)</td>
+<td nowrap="nowrap"> 10011110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ÿ</td>
+<td nowrap="nowrap"> chr(159)</td>
+<td nowrap="nowrap"> 10011111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"></td>
+<td nowrap="nowrap"> chr(160)</td>
+<td nowrap="nowrap"> 10100000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¡</td>
+<td nowrap="nowrap"> chr(161)</td>
+<td nowrap="nowrap"> 10100001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¢</td>
+<td nowrap="nowrap"> chr(162)</td>
+<td nowrap="nowrap"> 10100010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> £</td>
+<td nowrap="nowrap"> chr(163)</td>
+<td nowrap="nowrap"> 10100011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¤</td>
+<td nowrap="nowrap"> chr(164)</td>
+<td nowrap="nowrap"> 10100100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¥</td>
+<td nowrap="nowrap"> chr(165)</td>
+<td nowrap="nowrap"> 10100101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¦</td>
+<td nowrap="nowrap"> chr(166)</td>
+<td nowrap="nowrap"> 10100110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> §</td>
+<td nowrap="nowrap"> chr(167)</td>
+<td nowrap="nowrap"> 10100111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¨</td>
+<td nowrap="nowrap"> chr(168)</td>
+<td nowrap="nowrap"> 10101000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ©</td>
+<td nowrap="nowrap"> chr(169)</td>
+<td nowrap="nowrap"> 10101001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ª</td>
+<td nowrap="nowrap"> chr(170)</td>
+<td nowrap="nowrap"> 10101010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> «</td>
+<td nowrap="nowrap"> chr(171)</td>
+<td nowrap="nowrap"> 10101011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¬</td>
+<td nowrap="nowrap"> chr(172)</td>
+<td nowrap="nowrap"> 10101100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ­</td>
+<td nowrap="nowrap"> chr(173)</td>
+<td nowrap="nowrap"> 10101101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ®</td>
+<td nowrap="nowrap"> chr(174)</td>
+<td nowrap="nowrap"> 10101110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¯</td>
+<td nowrap="nowrap"> chr(175)</td>
+<td nowrap="nowrap"> 10101111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> °</td>
+<td nowrap="nowrap"> chr(176)</td>
+<td nowrap="nowrap"> 10110000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ±</td>
+<td nowrap="nowrap"> chr(177)</td>
+<td nowrap="nowrap"> 10110001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ²</td>
+<td nowrap="nowrap"> chr(178)</td>
+<td nowrap="nowrap"> 10110010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ³</td>
+<td nowrap="nowrap"> chr(179)</td>
+<td nowrap="nowrap"> 10110011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ´</td>
+<td nowrap="nowrap"> chr(180)</td>
+<td nowrap="nowrap"> 10110100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> µ</td>
+<td nowrap="nowrap"> chr(181)</td>
+<td nowrap="nowrap"> 10110101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¶</td>
+<td nowrap="nowrap"> chr(182)</td>
+<td nowrap="nowrap"> 10110110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ·</td>
+<td nowrap="nowrap"> chr(183)</td>
+<td nowrap="nowrap"> 10110111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¸</td>
+<td nowrap="nowrap"> chr(184)</td>
+<td nowrap="nowrap"> 10111000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¹</td>
+<td nowrap="nowrap"> chr(185)</td>
+<td nowrap="nowrap"> 10111001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> º</td>
+<td nowrap="nowrap"> chr(186)</td>
+<td nowrap="nowrap"> 10111010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> »</td>
+<td nowrap="nowrap"> chr(187)</td>
+<td nowrap="nowrap"> 10111011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¼</td>
+<td nowrap="nowrap"> chr(188)</td>
+<td nowrap="nowrap"> 10111100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ½</td>
+<td nowrap="nowrap"> chr(189)</td>
+<td nowrap="nowrap"> 10111101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¾</td>
+<td nowrap="nowrap"> chr(190)</td>
+<td nowrap="nowrap"> 10111110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ¿</td>
+<td nowrap="nowrap"> chr(191)</td>
+<td nowrap="nowrap"> 10111111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> À</td>
+<td nowrap="nowrap"> chr(192)</td>
+<td nowrap="nowrap"> 11000000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Á</td>
+<td nowrap="nowrap"> chr(193)</td>
+<td nowrap="nowrap"> 11000001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Â</td>
+<td nowrap="nowrap"> chr(194)</td>
+<td nowrap="nowrap"> 11000010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ã</td>
+<td nowrap="nowrap"> chr(195)</td>
+<td nowrap="nowrap"> 11000011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ä</td>
+<td nowrap="nowrap"> chr(196)</td>
+<td nowrap="nowrap"> 11000100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Å</td>
+<td nowrap="nowrap"> chr(197)</td>
+<td nowrap="nowrap"> 11000101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Æ</td>
+<td nowrap="nowrap"> chr(198)</td>
+<td nowrap="nowrap"> 11000110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ç</td>
+<td nowrap="nowrap"> chr(199)</td>
+<td nowrap="nowrap"> 11000111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> È</td>
+<td nowrap="nowrap"> chr(200)</td>
+<td nowrap="nowrap"> 11001000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> É</td>
+<td nowrap="nowrap"> chr(201)</td>
+<td nowrap="nowrap"> 11001001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ê</td>
+<td nowrap="nowrap"> chr(202)</td>
+<td nowrap="nowrap"> 11001010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ë</td>
+<td nowrap="nowrap"> chr(203)</td>
+<td nowrap="nowrap"> 11001011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ì</td>
+<td nowrap="nowrap"> chr(204)</td>
+<td nowrap="nowrap"> 11001100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Í</td>
+<td nowrap="nowrap"> chr(205)</td>
+<td nowrap="nowrap"> 11001101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Î</td>
+<td nowrap="nowrap"> chr(206)</td>
+<td nowrap="nowrap"> 11001110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ï</td>
+<td nowrap="nowrap"> chr(207)</td>
+<td nowrap="nowrap"> 11001111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ð</td>
+<td nowrap="nowrap"> chr(208)</td>
+<td nowrap="nowrap"> 11010000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ñ</td>
+<td nowrap="nowrap"> chr(209)</td>
+<td nowrap="nowrap"> 11010001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ò</td>
+<td nowrap="nowrap"> chr(210)</td>
+<td nowrap="nowrap"> 11010010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ó</td>
+<td nowrap="nowrap"> chr(211)</td>
+<td nowrap="nowrap"> 11010011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ô</td>
+<td nowrap="nowrap"> chr(212)</td>
+<td nowrap="nowrap"> 11010100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Õ</td>
+<td nowrap="nowrap"> chr(213)</td>
+<td nowrap="nowrap"> 11010101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ö</td>
+<td nowrap="nowrap"> chr(214)</td>
+<td nowrap="nowrap"> 11010110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ×</td>
+<td nowrap="nowrap"> chr(215)</td>
+<td nowrap="nowrap"> 11010111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ø</td>
+<td nowrap="nowrap"> chr(216)</td>
+<td nowrap="nowrap"> 11011000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ù</td>
+<td nowrap="nowrap"> chr(217)</td>
+<td nowrap="nowrap"> 11011001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ú</td>
+<td nowrap="nowrap"> chr(218)</td>
+<td nowrap="nowrap"> 11011010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Û</td>
+<td nowrap="nowrap"> chr(219)</td>
+<td nowrap="nowrap"> 11011011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ü</td>
+<td nowrap="nowrap"> chr(220)</td>
+<td nowrap="nowrap"> 11011100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Ý</td>
+<td nowrap="nowrap"> chr(221)</td>
+<td nowrap="nowrap"> 11011101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> Þ</td>
+<td nowrap="nowrap"> chr(222)</td>
+<td nowrap="nowrap"> 11011110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ß</td>
+<td nowrap="nowrap"> chr(223)</td>
+<td nowrap="nowrap"> 11011111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> à</td>
+<td nowrap="nowrap"> chr(224)</td>
+<td nowrap="nowrap"> 11100000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> á</td>
+<td nowrap="nowrap"> chr(225)</td>
+<td nowrap="nowrap"> 11100001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> â</td>
+<td nowrap="nowrap"> chr(226)</td>
+<td nowrap="nowrap"> 11100010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ã</td>
+<td nowrap="nowrap"> chr(227)</td>
+<td nowrap="nowrap"> 11100011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ä</td>
+<td nowrap="nowrap"> chr(228)</td>
+<td nowrap="nowrap"> 11100100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> å</td>
+<td nowrap="nowrap"> chr(229)</td>
+<td nowrap="nowrap"> 11100101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> æ</td>
+<td nowrap="nowrap"> chr(230)</td>
+<td nowrap="nowrap"> 11100110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ç</td>
+<td nowrap="nowrap"> chr(231)</td>
+<td nowrap="nowrap"> 11100111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> è</td>
+<td nowrap="nowrap"> chr(232)</td>
+<td nowrap="nowrap"> 11101000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> é</td>
+<td nowrap="nowrap"> chr(233)</td>
+<td nowrap="nowrap"> 11101001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ê</td>
+<td nowrap="nowrap"> chr(234)</td>
+<td nowrap="nowrap"> 11101010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ë</td>
+<td nowrap="nowrap"> chr(235)</td>
+<td nowrap="nowrap"> 11101011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ì</td>
+<td nowrap="nowrap"> chr(236)</td>
+<td nowrap="nowrap"> 11101100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> í</td>
+<td nowrap="nowrap"> chr(237)</td>
+<td nowrap="nowrap"> 11101101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> î</td>
+<td nowrap="nowrap"> chr(238)</td>
+<td nowrap="nowrap"> 11101110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ï</td>
+<td nowrap="nowrap"> chr(239)</td>
+<td nowrap="nowrap"> 11101111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ð</td>
+<td nowrap="nowrap"> chr(240)</td>
+<td nowrap="nowrap"> 11110000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ñ</td>
+<td nowrap="nowrap"> chr(241)</td>
+<td nowrap="nowrap"> 11110001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ò</td>
+<td nowrap="nowrap"> chr(242)</td>
+<td nowrap="nowrap"> 11110010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ó</td>
+<td nowrap="nowrap"> chr(243)</td>
+<td nowrap="nowrap"> 11110011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ô</td>
+<td nowrap="nowrap"> chr(244)</td>
+<td nowrap="nowrap"> 11110100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> õ</td>
+<td nowrap="nowrap"> chr(245)</td>
+<td nowrap="nowrap"> 11110101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ö</td>
+<td nowrap="nowrap"> chr(246)</td>
+<td nowrap="nowrap"> 11110110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ÷</td>
+<td nowrap="nowrap"> chr(247)</td>
+<td nowrap="nowrap"> 11110111</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ø</td>
+<td nowrap="nowrap"> chr(248)</td>
+<td nowrap="nowrap"> 11111000</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ù</td>
+<td nowrap="nowrap"> chr(249)</td>
+<td nowrap="nowrap"> 11111001</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ú</td>
+<td nowrap="nowrap"> chr(250)</td>
+<td nowrap="nowrap"> 11111010</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> û</td>
+<td nowrap="nowrap"> chr(251)</td>
+<td nowrap="nowrap"> 11111011</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ü</td>
+<td nowrap="nowrap"> chr(252)</td>
+<td nowrap="nowrap"> 11111100</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ý</td>
+<td nowrap="nowrap"> chr(253)</td>
+<td nowrap="nowrap"> 11111101</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> þ</td>
+<td nowrap="nowrap"> chr(254)</td>
+<td nowrap="nowrap"> 11111110</td>
+</tr>
+<tr>
+<td nowrap="nowrap"> ÿ</td>
+<td nowrap="nowrap"> chr(255)</td>
+<td nowrap="nowrap"> 11111111</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Ben je geïnteresseerd geraakt in het rekenen met binaire getallen? Neem dan ook eens een kijkje in ons <a href="https://www.icttipsandtricks.nl/2023/06/16/hexadecimaal-rekenen-een-gids-voor-beginners/">artikel over hexadecimaal rekenen</a>!</p>
+<p>Maar ook in <a href="https://www.icttipsandtricks.nl/2023/06/24/een-diepgaande-duik-in-de-wondere-wereld-van-tcp-ip/">de wereld van TCP/IP</a> wordt er gebruik gemaakt van het binaire stelsel!</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Deel dit:</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://www.icttipsandtricks.nl/2016/11/05/binair-rekenen/" data-a2a-title="Binair rekenen"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F&amp;linkname=Binair%20rekenen" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F&amp;linkname=Binair%20rekenen" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F&amp;linkname=Binair%20rekenen" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F&amp;linkname=Binair%20rekenen" title="Pinterest" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwww.icttipsandtricks.nl%2F2016%2F11%2F05%2Fbinair-rekenen%2F&amp;linkname=Binair%20rekenen" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>
+		
+		
+			</div><!-- .entry-content .clear -->
+</div>
+
+	
+</article><!-- #post-## -->
+
+
+	        <nav class="navigation post-navigation" role="navigation" aria-label="Berichten">
+	                <span class="screen-reader-text">Berichtnavigatie</span>
+	                <div class="nav-links"><div class="nav-previous"><a href="https://www.icttipsandtricks.nl/2016/11/04/swyxit-geluidinstellingen-toewijzen-en-aan-persoonlijke-voorkeur-aanpassen/" rel="prev"><span class="ast-left-arrow">&larr;</span> Vorige Bericht</a></div><div class="nav-next"><a href="https://www.icttipsandtricks.nl/2016/11/07/exchange-2010-2007-tarpitting-in-of-uitschakelen/" rel="next">Volgende Bericht <span class="ast-right-arrow">&rarr;</span></a></div></div>
+	        </nav>			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	<div class="widget-area secondary" id="secondary" itemtype="https://schema.org/WPSideBar" itemscope="itemscope">
+	<div class="sidebar-main" >
+		
+		
+		<aside id="recent-posts-8" class="widget widget_recent_entries">
+		<h2 class="widget-title">Recente Berichten</h2><nav aria-label="Recente Berichten">
+		<ul>
+											<li>
+					<a href="https://www.icttipsandtricks.nl/2023/08/02/een-blik-op-hoe-een-ups-werkt/">Een Blik op Hoe Een UPS Werkt</a>
+									</li>
+											<li>
+					<a href="https://www.icttipsandtricks.nl/2023/07/05/wat-is-spanning-tree-protocol/">Wat is Spanning Tree Protocol?</a>
+									</li>
+											<li>
+					<a href="https://www.icttipsandtricks.nl/2023/07/04/ontsnappen-aan-de-spamtsunami/">Ontsnappen aan de Spamtsunami!</a>
+									</li>
+											<li>
+					<a href="https://www.icttipsandtricks.nl/2023/07/04/een-diepgaande-blik-op-draadloze-netwerken/">Een Diepgaande Blik op Draadloze Netwerken</a>
+									</li>
+											<li>
+					<a href="https://www.icttipsandtricks.nl/2023/06/29/docsis-de-evolutie-van-breedbandconnectiviteit/">DOCSIS: De Evolutie van Breedbandconnectiviteit</a>
+									</li>
+					</ul>
+
+		</nav></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><h2 class="widget-title">Geef een website review!</h2><div class="textwidget custom-html-widget"><a title="Customer reviews of icttipsandtricks.nl" href="https://www.webwiki.com/icttipsandtricks.nl"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Reviews of icttipsandtricks.nl" class="lazyload" data-src="https://www.webwiki.com/etc/rating/widget/1396146306/icttipsandtricks-nl-rating-full-180.png"></a></div></aside><aside id="categories-10" class="widget widget_categories"><h2 class="widget-title">Categorieën</h2><form action="https://www.icttipsandtricks.nl" method="get"><label class="screen-reader-text" for="cat">Categorieën</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Categorie selecteren</option>
+	<option class="level-0" value="72">3PAR</option>
+	<option class="level-0" value="76">Bitcoin</option>
+	<option class="level-0" value="27">DIY (Do It Yourself)</option>
+	<option class="level-0" value="71">Educatief</option>
+	<option class="level-0" value="346">Facebook</option>
+	<option class="level-0" value="8">Gadgets</option>
+	<option class="level-0" value="55">Games</option>
+	<option class="level-0" value="1">Geen categorie</option>
+	<option class="level-0" value="9">Gein</option>
+	<option class="level-0" value="33">Handleidingen</option>
+	<option class="level-0" value="15">Hardware</option>
+	<option class="level-0" value="28">Hoe werkt dat nou ?</option>
+	<option class="level-0" value="436">Home Wizard</option>
+	<option class="level-0" value="58">HP Proliant Servers</option>
+	<option class="level-0" value="175">HPE MSA</option>
+	<option class="level-0" value="4">Informatie</option>
+	<option class="level-0" value="79">Kodi</option>
+	<option class="level-0" value="178">Koophoek</option>
+	<option class="level-0" value="56">Linux</option>
+	<option class="level-0" value="281">Microsoft Azure</option>
+	<option class="level-0" value="13">Microsoft Exchange</option>
+	<option class="level-0" value="17">MS Office</option>
+	<option class="level-0" value="18">MS Server OS</option>
+	<option class="level-0" value="19">MS Windows OS</option>
+	<option class="level-0" value="173">Muziek</option>
+	<option class="level-0" value="440">Networking</option>
+	<option class="level-0" value="241">Office365</option>
+	<option class="level-0" value="70">Oplichting &#8211; Scam</option>
+	<option class="level-0" value="62">Privacy Wetgeving</option>
+	<option class="level-0" value="443">Projecten Frank</option>
+	<option class="level-0" value="73">Ransomware</option>
+	<option class="level-0" value="226">Reviews</option>
+	<option class="level-0" value="75">Security</option>
+	<option class="level-0" value="31">Site Informatie</option>
+	<option class="level-0" value="29">Smartphones Android</option>
+	<option class="level-0" value="57">Smartphones Apple</option>
+	<option class="level-0" value="74">Smartwatches</option>
+	<option class="level-0" value="20">Software</option>
+	<option class="level-0" value="22">Sonicwall</option>
+	<option class="level-0" value="177">Sophos</option>
+	<option class="level-0" value="16">Switches</option>
+	<option class="level-0" value="174">Swyx</option>
+	<option class="level-0" value="179">Synology</option>
+	<option class="level-0" value="32">Tech Nieuws</option>
+	<option class="level-0" value="24">Tips</option>
+	<option class="level-0" value="176">Ubiquiti</option>
+	<option class="level-0" value="280">Veeam</option>
+	<option class="level-0" value="69">Virussen</option>
+	<option class="level-0" value="14">vMWare</option>
+	<option class="level-0" value="304">Wifi</option>
+	<option class="level-0" value="26">Wist je dat&#8230;</option>
+	<option class="level-0" value="181">Ziggo</option>
+</select>
+</form>
+<script>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</aside><aside id="search-2" class="widget widget_search"><h2 class="widget-title">Artikel zoeken</h2><form role="search" method="get" class="search-form" action="https://www.icttipsandtricks.nl/">
+	<label>
+		<span class="screen-reader-text">Zoek naar:</span>
+		<input type="search" class="search-field"  placeholder="Zoeken &hellip;" value="" name="s" tabindex="-1">
+					<button class="search-submit ast-search-submit" aria-label="Zoekopdracht verzenden">
+				<span hidden>Zoeken</span>
+				<i><span class="ast-icon icon-search"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="-888 480 142 142" enable-background="new -888 480 142 142" xml:space="preserve">
+				<path d="M-787.4,568.7h-6.3l-2.4-2.4c7.9-8.7,12.6-20.5,12.6-33.1c0-28.4-22.9-51.3-51.3-51.3  c-28.4,0-51.3,22.9-51.3,51.3c0,28.4,22.9,51.3,51.3,51.3c12.6,0,24.4-4.7,33.1-12.6l2.4,2.4v6.3l39.4,39.4l11.8-11.8L-787.4,568.7  L-787.4,568.7z M-834.7,568.7c-19.7,0-35.5-15.8-35.5-35.5c0-19.7,15.8-35.5,35.5-35.5c19.7,0,35.5,15.8,35.5,35.5  C-799.3,553-815,568.7-834.7,568.7L-834.7,568.7z"/>
+				</svg></span></i>
+			</button>
+			</label>
+			<input type="submit" class="search-submit" value="Zoeken">
+	</form>
+</aside>
+	</div><!-- .sidebar-main -->
+</div><!-- #secondary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright &copy; 2023 ICT Tips and Tricks! | Powered by <a href="https://wpastra.com/" rel="nofollow noopener" target="_blank">Astra WordPress thema</a></p>
+</div>			</div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+<script>document.addEventListener("DOMContentLoaded",function(){var e="undefined"!=typeof MutationObserver;if(WPO_LazyLoad.update(),e){var t=new MutationObserver(function(e){e.forEach(function(e){WPO_LazyLoad.update(e.addedNodes)})}),n={childList:!0,subtree:!0},a=document.getElementsByTagName("body")[0];t.observe(a,n)}else window.addEventListener("load",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)}),window.addEventListener("scroll",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)}),window.addEventListener("resize",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)}),document.getElementsByTagName("body")[0].addEventListener("post-load",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)})});var WPO_Intersection_Observer=function(e,t){function n(e){d.push(e)}function a(e){var t;for(t in d)if(d.hasOwnProperty(t)&&e==d[t])return void delete d[t]}function r(){var t;for(t in d)d.hasOwnProperty(t)&&o(d[t])&&(e(d[t]),a(d[t]))}function o(e){var n=e.getBoundingClientRect(),a=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight;return n.top-t.offset<a&&n.bottom+t.offset>0}var d=[];return t=t||{offset:100},window.addEventListener("load",function(){WPO_LazyLoad.deferred_call("check",r)}),window.addEventListener("scroll",function(){WPO_LazyLoad.deferred_call("check",r)}),window.addEventListener("resize",function(){WPO_LazyLoad.deferred_call("check",r)}),{observe:n,unobserve:a}},WPO_LazyLoad=function(){function e(e){if(!u(e,g.loaded_class)){i(e,g.loaded_class),f.unobserve(e),l(e,g.observe_class);var n,a=e.tagName;if("picture"==a.toLowerCase())for(n in e.childNodes)e.childNodes.hasOwnProperty(n)&&t(e.childNodes[n]);else t(e)}}function t(e){if("undefined"!=typeof e.getAttribute){var t=e.getAttribute("data-src"),a=e.getAttribute("data-srcset"),r=e.getAttribute("data-background"),o=e.getAttribute("data-background-image");t&&(e.setAttribute("src",t),e.removeAttribute("data-src")),a&&(e.setAttribute("srcset",a),e.removeAttribute("data-srcset")),r&&(e.style.background=n(e.style.background,r.split(";")),e.removeAttribute("data-background")),o&&(e.style.backgroundImage=n(e.style.backgroundImage,o.split(";")),e.removeAttribute("data-background-image"))}}function n(e,t){var n=0;return e.replaceAll(/url\([^\)]*\)/gi,function(){return["url('",t[n++],"')"].join("")})}function a(t){var n;for(n in t)t.hasOwnProperty(n)&&t[n].isIntersecting&&e(t[n].target)}function r(e){return l(e,g.select_class),o(e)?(e=d(e),e.dataset.hasOwnProperty("src")&&(e.src=e.dataset.src),void(e.dataset.hasOwnProperty("srcset")&&(e.srcset=e.dataset.srcset))):void(u(e,g.observe_class)||(i(e,g.observe_class),f.observe(e)))}function o(e){e=d(e);const t=e.getBoundingClientRect(),n=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight;return t.top>0&&t.top<n}function d(e){return"picture"===e.tagName.toLowerCase()?e.lastElementChild:e}function s(e){var t,n=e||Array.prototype.slice.call(g.container.getElementsByClassName(g.select_class));for(t in n)n.hasOwnProperty(t)&&(u(n[t],g.select_class)?r(n[t]):n[t].childNodes&&n[t].childNodes.length&&s(n[t].childNodes))}function c(e,t,n){n=n||200,b[e]=b[e]?b[e]+1:1,setTimeout(function(){var a=(new Date).getTime(),r=y[e]||0;b[e]--,(0===b[e]||r+n<a)&&(y[e]=a,t())},n)}function i(e,t){u(e,t)||(e.className?e.className+=" "+t:e.className=t)}function l(e,t){var n=new RegExp(["(^|\\s)",t,"(\\s|$)"].join(""));e.className=e.className.replace(n," ")}function u(e,t){var n=new RegExp(["(^|\\s)",t,"(\\s|$)"].join(""));return n.test(e.className)}var f,v="undefined"!=typeof IntersectionObserver,g={container:window.document,select_class:"lazyload",observe_class:"lazyload-observe",loaded_class:"lazyload-loaded"};f=v?new IntersectionObserver(a,{root:null,rootMargin:"0px",threshold:[.1]}):new WPO_Intersection_Observer(e);var b={},y={};return{update:s,deferred_call:c}}();</script>
+<div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both">
+	<span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>	<span class="screen-reader-text">Scroll naar boven</span>
+</div>
+<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1","is_header_footer_builder_active":"1"};
+</script>
+<script src='https://www.icttipsandtricks.nl/wp-content/themes/astra/assets/js/minified/frontend.min.js' id='astra-theme-js-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				</body>
+</html>
+
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: 25 September 2023 10:57 (Europe/Amsterdam UTC:2) -->
