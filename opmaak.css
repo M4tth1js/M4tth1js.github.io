@@ -27,9 +27,6 @@ body{
   background-color: #696969;
 }
 
-footer{
-  background-color: #333; /* Achtergrondkleur van de footer */
-  color: #fff; /* Tekstkleur van de footer */
-  padding: 20px; /* Binnenste ruimte (opvulling) van de footer */
-  text-align: center; /* Tekstuitlijning in het midden van de footer */
+footer{ 
+  
 }
