@@ -26,3 +26,9 @@ li a:hover {
 body{
   background-color: #696969;
 }
+
+<footer> 
+    <div class="footer">
+      &copy; 2023 Matthijs zijn Website. Alle rechten voorbehouden.
+    </div>
+    </footer>
