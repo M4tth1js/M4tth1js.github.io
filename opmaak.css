@@ -1,4 +1,4 @@
-
+/*de code hieronder zorgt ervoor dat mijn menu en mn achtergrond de goede formaat en kleur hebben en dat ze de goede positie aanenemen*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -26,7 +26,7 @@ li a:hover {
 body{
   background-color: #696969;
 }
-
+/*Dit is de code voor de footer */
 footer {
   position: absolute;
   bottom: 0;
