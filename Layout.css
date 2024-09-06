@@ -52,7 +52,7 @@
     width: 150px;
     background: #999999;
 }
-.top-level-menu > li:hover { background: #CCCCCC; }
+.top-level-menu > li:hover { background: #0df37c; }
 
 .top-level-menu li:hover > ul
 {
