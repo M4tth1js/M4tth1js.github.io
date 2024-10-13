@@ -1,0 +1,70 @@
+<!DOCTYPE html> <!--dit is de hmepage van mijn website-->
+<html> <!-- hieronder staan algemene dingen die ervoor zorgen dat de website werkt en wordt het bestand gekoppelt aan mijn CSS-code-->
+  <head> 
+    <title>Mijn website</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/opmaak.css">
+  </head>
+  <body> 
+  
+    <!--Hieronder staat de code die ervoor zorgt dat je naar verschillende pagina's van de website kan komen -->
+    <ul>
+      <li><a href="/index.html"> Home</a> <!-- Home--></li>
+      <li><a href="/HTML/binairstelsel.html"> Binairstelsel</a> <!-- Binairstelsel--> </li>
+      <li><a href="/HTML/kleurmodellen.html"> Kleurmodellen</a> <!-- Kleurmodellen--> </li>
+      <li><a href="/HTML/Compressietechnieken.html"> Compressietechnieken</a> <!-- Compressietechnieken--> </li>
+      <li><a href="/HTML/Werking computer.html"> Werking van de computer</a> <!-- Werking van de computer--></li>
+      <div class="menu">
+        <div class="item">Dropdown menu
+            <div class="submenu">
+                <div class="item">Logische laag 
+                    <div class="submenu">
+                        <div class="item"> 
+                           <ul> <a href="/HTML/binairstelsel.html"> OBMS</a> </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">Toepassing laag
+                	<div class="submenu">
+                    	<div class="item">APPs en APIs</div>
+                	</div>
+                </div>       
+                 <div class="item">Fysieke laag
+                	<div class="submenu">
+                    	<div class="item">Het CPU</div>
+                        <div class="item">Het geheugen</div>
+                        <div class="item">Randapparatuur</div>
+                	</div>
+                </div>     
+                <div class="item">specifiek onderwerp</div>
+                <div class="item">3-Lagenmodel</div>
+        </div>
+      </div>
+
+    </ul>
+    
+    
+    <h1>Floppy discs</h1> <!--Dit is de titel van deze pagina-->
+   <p class="round1"> <!--Dit zorgt ervoor dat de tekst in een paragraaf staat-->
+      Hallo, dit is mijn website! Ik ben Matthijs en heb deze website gemaakt als project voor informatica.
+      Hier kan je wat informatie vinden over bijvoorbeeld kleurmodellen, het binairstelsel en compressie. Veel lees plezier! 
+    </p>
+    
+    <br> 
+    <!--hieronder de code die ervoor zorgt dat de paragrafen in borders staan-->
+    <style> 
+      p.round1 {
+     border: 3px solid black;
+     border-radius: 15px;
+     padding: 5px;
+     }
+     </style>
+
+  </body>
+  <!-- hierdonder staat een footer, die is gekoppelt aan css-->
+  <footer> 
+    <div class="footer">
+          &copy; 2023 Matthijs zijn Website. Alle rechten voorbehouden.
+    </div>
+   </footer>
+</html> 
